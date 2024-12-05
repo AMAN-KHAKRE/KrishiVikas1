@@ -40,7 +40,18 @@ def get_weather_data(city):
     except Exception as e:
         print(f"Error fetching weather data: {e}")
         return {'temperature': None, 'humidity': None, 'uv_index': None}
-@app.route('/feedback',methods=['GET'])
+@app.route('/submit-feedback', methods=['POST'])
+def submit_feedback():
+    data = request.get_json()
+    name = data.get('name')
+    email = data.get('email')
+    message = data.get('message')
+
+    # Logging feedback to console (replace this with database storage if needed)
+    print(f"Feedback received from {name} ({email}): {message}")
+
+    # Send success response
+    return jsonify({'message': 'Thank you for your feedback!'})
 
 @app.route('/predict', methods=['POST'])
 def predict():
