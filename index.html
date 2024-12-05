@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KrishiVikas</title>
+    <link rel="stylesheet" href="agri.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">KrishiVikas</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About us</a></li>
+                <li><a href="#feedback">Feedback</a></li>
+                <li><a href="#help">Help</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>KrishiVikas</h1>
+            <p>
+                KrishiVikas is an AI-powered platform designed to revolutionize farming by helping farmers adopt sustainable, climate-resilient agricultural practices. 
+                Our innovative tools provide insights into soil health, water management, and weather patterns to ensure higher productivity and resource efficiency. 
+                With KrishiVikas, we aim to empower farmers, enhance food security, and promote sustainable farming for a better future. 
+                Together, let's cultivate a greener and more prosperous tomorrow.
+            </p>
+        </div>
+    </section>
+
+    <section id="services" class="services">
+        <div class="service-container">
+            <div class="service-item">
+                <img src="soil.jpeg.jpg" alt="Soil Health Monitoring"><br>
+                <button>Soil Health Monitoring</button>
+            </div>
+            <div class="service-item">
+                <img src="images/climate.jpg" alt="Climate Insights"><br>
+                <button>Climate Insights</button>
+            </div>
+            <div class="service-item">
+                <img src="images/water.jpg" alt="Water Management"><br>
+                <button>Water Management</button>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Crop Recommendation Section -->
+    <section id="crop-prediction" class="crop-prediction">
+        <h2 style="text-align: center;">Get Crop Recommendation</h2>
+        <form id="crop-prediction-form">
+            <div id="crop">
+            <label for="city">City:</label><br>
+            <input type="text" id="city" name="city" required><br>
+
+            <label for="farm_area">Farm Area (hectares):</label><br>
+            <input type="number" id="farm_area" name="farm_area" step="0.01" required><br>
+
+            <label for="irrigation_type">Irrigation Type:</label><br>
+            <input type="text" id="irrigation_type" name="irrigation_type" required><br>
+
+            <label for="fertilizer_used">Fertilizer Used (kg/ha):</label><br>
+            <input type="number" id="fertilizer_used" name="fertilizer_used" step="0.01" required><br>
+
+            <label for="pesticide_used">Pesticide Used (liters):</label><br>
+            <input type="number" id="pesticide_used" name="pesticide_used" step="0.01" required><br>
+
+            <label for="soil_type">Soil Type:</label><br>
+            <input type="text" id="soil_type" name="soil_type" required><br>
+
+            <label for="season">Season:</label><br>
+            <input type="text" id="season" name="season" required><br>
+
+            <label for="rainfall">Rainfall (mm):</label><br>
+            <input type="number" id="rainfall" name="rainfall"  step="0.01" required><br>
+
+            <label for="nitrogen">Nitrogen (kg/ha):</label><br>
+            <input type="number" id="nitrogen" name="nitrogen" step="0.01" required><br>
+
+            <label for="phosphorus">Phosphorus (kg/ha):</label><br>
+            <input type="number" id="phosphorus" name="phosphorus" step="0.01" required><br>
+
+            <label for="potassium">Potassium (kg/ha):</label><br>
+            <input type="number" id="potassium" name="potassium" step="0.01" required><br>
+
+            <label for="ph_value">pH Value:</label><br>
+            <input type="number" id="ph_value" name="ph_value" step="0.01" required><br>
+            </div>           
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+
+        <!-- Display the recommended crop -->
+        <div id="result">
+            <h3>Recommended Crop:</h3>
+            <p id="recommended-crop"></p>
+            <h3>Class Probabilities:</h3>
+            <ul id="class-probabilities"></ul>
+        </div>
+    </section>
+    <section id="feedback" class="feedback">
+        <h2 style="color: blanchedalmond; font-size: xx-large;">Feedback</h2>
+        <p>We value your feedback. Please let us know how we can improve:</p>
+        <form id="feedback-form">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name" required><br>
+    
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required><br>
+    
+            <label for="feedback-message">Feedback:</label><br>
+            <textarea id="feedback-message" name="feedback-message" rows="5" required></textarea><br>
+    
+            <button type="submit">Submit Feedback</button>
+        </form>
+        <p id="feedback-response" style="margin-top: 1rem;"></p>
+    </section>
+
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>At KrishiVikas, we aim to revolutionize farming with AI-driven insights.</p>
+    </section>
+
+    <section id="help" class="help">
+        <h2>Help</h2>
+        <p>If you have questions or need assistance, feel free to contact us:</p>
+        <a  href="#aakashkhakre123@gmail.com">Email:aakaskhakre123@gmail.com</a>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2024 KrishiVikas. All rights reserved.</p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        document.getElementById("crop-prediction-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            
+            const formData = new FormData(this);
+            const data = {};
+            formData.forEach((value, key) => {
+                data[key] = isNaN(value) ? value : parseFloat(value);
+            });
+
+            fetch('http://localhost:5000/predict', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data),
+            })
+            .then(response => response.json())
+            .then(result => {
+                document.getElementById("recommended-crop").textContent = result.recommended_crop || "No crop recommended.";
+                const probabilitiesList = document.getElementById("class-probabilities");
+                probabilitiesList.innerHTML = "";
+                for (const [crop, probability] of Object.entries(result.class_probabilities || {})) {
+                    const listItem = document.createElement("li");
+                    listItem.textContent = `${crop}: ${(probability * 100).toFixed(2)}%`;
+                    probabilitiesList.appendChild(listItem);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert("An error occurred while processing your request.");
+            });
+        });
+    </script>
+</body>
+</html>
