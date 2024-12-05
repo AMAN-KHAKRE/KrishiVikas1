@@ -40,6 +40,7 @@ def get_weather_data(city):
     except Exception as e:
         print(f"Error fetching weather data: {e}")
         return {'temperature': None, 'humidity': None, 'uv_index': None}
+@app.route('/feedback',methods=['GET'])
 
 @app.route('/predict', methods=['POST'])
 def predict():
