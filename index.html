@@ -166,6 +166,35 @@
                 alert("An error occurred while processing your request.");
             });
         });
+        document.getElementById('feedback-form').addEventListener('submit', async function (event) {
+    event.preventDefault(); // Prevent form from reloading the page
+
+    const name = document.getElementById('name').value;
+    const email = document.getElementById('email').value;
+    const message = document.getElementById('feedback-message').value;
+
+    try {
+        const response = await fetch('http://localhost:5000/submit-feedback', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ name, email, message }),
+        });
+
+        if (response.ok) {
+            const result = await response.json();
+            document.getElementById('feedback-response').textContent = result.message;
+            document.getElementById('feedback-form').reset();
+        } else {
+            document.getElementById('feedback-response').textContent = 'Failed to submit feedback. Please try again.';
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        document.getElementById('feedback-response').textContent = 'An error occurred. Please try again later.';
+    }
+});
+
     </script>
 </body>
 </html>
