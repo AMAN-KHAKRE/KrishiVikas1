@@ -3,6 +3,8 @@ import pickle
 import requests
 from flask_cors import CORS
 
+
+
 # Initialize Flask app and enable CORS
 app = Flask(__name__)
 CORS(app)
@@ -19,7 +21,7 @@ except Exception as e:
     raise e
 
 # Weather API Configuration
-API_KEY = "1986453606a47823a947378873e2ed58"  # Replace with your actual API key
+API_KEY = "4286d9076cfece13d1d63c35380427db"  # Replace with your actual API key
 
 def get_weather_data(city):
     """Fetch current weather data for the specified city using the Weatherstack API."""
@@ -40,18 +42,6 @@ def get_weather_data(city):
     except Exception as e:
         print(f"Error fetching weather data: {e}")
         return {'temperature': None, 'humidity': None, 'uv_index': None}
-@app.route('/submit-feedback', methods=['POST'])
-def submit_feedback():
-    data = request.get_json()
-    name = data.get('name')
-    email = data.get('email')
-    message = data.get('message')
-
-    # Logging feedback to console (replace this with database storage if needed)
-    print(f"Feedback received from {name} ({email}): {message}")
-
-    # Send success response
-    return jsonify({'message': 'Thank you for your feedback!'})
 
 @app.route('/predict', methods=['POST'])
 def predict():
