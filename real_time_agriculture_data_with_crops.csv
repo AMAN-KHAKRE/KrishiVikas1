@@ -1,0 +1,1001 @@
+Farm_Area(acres),Irrigation_Type,Fertilizer_Used(tons),Pesticide_Used(kg),Soil_Type,Season,Rainfall(mm),Nitrogen,Phosphorus,Potassium,pH_Value,Crop
+1.6,Flood,15,66,Sandy,Summer,178,79,37,68,5.9,Papaya
+4.5,Sprinkler,48,40,Clay,Summer,114,76,37,54,7.4,Sunflower Seeds
+3.7,Flood,45,56,Clay,Monsoon,192,94,46,72,6.0,Soybean
+4.8,Sprinkler,39,31,Sandy,Rainy,197,76,31,54,6.4,Chili
+3.5,Drip,31,38,Loam,Monsoon,100,72,34,75,5.6,Avocado
+2.5,Drip,28,70,Sandy,Summer,136,56,49,65,7.3,Garlic
+1.6,Sprinkler,22,57,Sandy,Winter,246,96,40,74,6.8,Mango
+3.0,Drip,56,54,Loam,Winter,193,85,24,53,6.8,Radish
+4.6,Sprinkler,22,59,Clay,Monsoon,207,91,27,72,5.9,Pumpkin Seeds
+4.5,Drip,32,22,Loam,Winter,186,96,28,75,6.9,Kidney Bean
+4.2,Drip,63,11,Sandy,Winter,148,90,38,80,7.2,Onion
+1.0,Drip,55,53,Loam,Winter,178,97,20,53,6.1,Apple
+2.9,Drip,65,14,Loam,Winter,238,80,45,59,6.9,Pomegranate
+2.4,Drip,50,13,Loam,Monsoon,204,93,36,76,6.4,Black Bean
+1.6,Sprinkler,25,23,Sandy,Summer,239,61,35,73,6.5,Garlic
+2.2,Sprinkler,57,68,Loam,Summer,122,94,31,64,6.7,Taro
+2.4,Flood,60,23,Clay,Rainy,166,60,50,73,7.3,Turmeric
+4.9,Sprinkler,44,58,Loam,Summer,211,53,34,75,7.5,Mung Bean
+3.9,Drip,59,51,Loam,Winter,199,91,32,78,5.9,Sunflower
+2.6,Flood,40,41,Clay,Summer,227,86,37,63,6.1,Jute
+3.2,Drip,40,25,Loam,Rainy,195,83,20,50,7.1,Barley
+3.6,Drip,10,10,Sandy,Winter,181,71,29,71,6.3,Sesame
+3.4,Flood,28,45,Clay,Rainy,211,56,37,70,5.6,Chickpea
+4.8,Flood,20,10,Clay,Summer,211,91,44,51,5.7,Onion
+3.3,Drip,60,19,Loam,Monsoon,125,81,28,63,6.1,Safflower
+1.7,Sprinkler,42,51,Clay,Summer,216,82,48,50,6.9,Barley
+3.3,Flood,46,28,Clay,Monsoon,222,74,23,57,6.7,Jute
+4.3,Drip,36,39,Sandy,Winter,133,51,36,72,7.0,Maize
+3.7,Drip,19,26,Sandy,Rainy,208,90,48,52,5.9,Tobacco
+3.4,Drip,16,24,Clay,Rainy,183,58,25,64,5.5,Cassava
+1.9,Flood,38,59,Clay,Rainy,141,98,39,61,5.9,Avocado
+1.2,Drip,54,59,Sandy,Rainy,140,60,25,77,7.4,Garlic
+4.0,Sprinkler,52,62,Sandy,Summer,104,64,41,52,6.7,Tea
+2.0,Drip,60,64,Loam,Winter,139,94,43,68,6.6,Maize
+2.4,Drip,59,49,Sandy,Rainy,195,86,37,59,5.7,Lemon
+1.5,Sprinkler,10,37,Sandy,Summer,127,84,21,59,6.7,Cauliflower
+4.8,Drip,27,36,Clay,Monsoon,206,80,34,61,6.9,Papaya
+3.0,Drip,11,65,Clay,Summer,158,77,21,60,6.6,Watermelon
+1.4,Drip,48,25,Sandy,Winter,205,53,48,65,5.7,Spinach
+3.7,Drip,16,46,Loam,Summer,177,100,42,77,7.0,Coffee
+2.8,Drip,53,62,Sandy,Summer,111,85,35,55,6.3,Kidney Bean
+3.6,Sprinkler,70,38,Sandy,Summer,245,93,20,67,6.9,Mint
+4.2,Flood,50,57,Sandy,Rainy,132,78,48,65,6.0,Hemp
+4.9,Flood,57,23,Clay,Winter,226,70,44,73,7.0,Apple
+1.9,Sprinkler,12,17,Sandy,Monsoon,236,66,33,79,7.3,Sesame
+4.2,Drip,57,13,Clay,Summer,212,77,47,78,5.9,Chili Pepper
+2.7,Drip,28,43,Clay,Rainy,189,100,32,61,7.1,Sunflower
+2.8,Drip,45,20,Loam,Summer,136,83,24,80,5.8,Mushroom
+4.7,Sprinkler,10,58,Clay,Winter,125,74,27,73,6.1,Avocado
+3.5,Drip,14,26,Loam,Rainy,184,74,25,77,6.9,Cassava
+3.5,Sprinkler,46,66,Sandy,Monsoon,226,88,23,80,7.3,Wheat
+2.6,Flood,42,33,Loam,Monsoon,227,64,34,57,6.3,Cotton
+2.4,Flood,31,47,Sandy,Summer,138,78,50,53,7.1,Flax Seeds
+1.4,Drip,32,53,Sandy,Rainy,111,50,42,68,6.9,Black Bean
+2.9,Drip,56,34,Sandy,Winter,184,89,24,52,7.2,Black Bean
+2.2,Flood,22,48,Sandy,Winter,202,88,21,80,6.8,Sesame
+4.4,Sprinkler,24,37,Loam,Monsoon,220,51,34,76,6.4,Navy Bean
+1.1,Flood,55,47,Sandy,Summer,155,64,34,74,7.5,Cucumber
+4.3,Sprinkler,61,60,Clay,Winter,167,93,31,76,6.7,Flax Seeds
+2.9,Flood,55,51,Clay,Monsoon,229,87,35,71,7.4,Mustard
+4.2,Drip,14,24,Loam,Summer,138,84,35,55,6.5,Chickpea
+2.3,Sprinkler,68,17,Sandy,Winter,173,96,25,78,5.7,Chili
+2.6,Sprinkler,20,63,Loam,Rainy,180,61,27,70,7.3,Yam
+4.1,Drip,29,66,Clay,Winter,199,54,20,69,6.4,Oats
+2.7,Sprinkler,46,68,Sandy,Rainy,180,74,36,70,7.4,Sweet Potato
+1.9,Drip,45,58,Clay,Winter,222,54,44,68,6.8,Brinjal
+1.3,Drip,54,50,Loam,Rainy,222,91,43,50,6.1,Mushroom
+1.0,Flood,52,18,Clay,Summer,110,51,36,66,5.8,Mustard
+2.5,Drip,50,32,Clay,Monsoon,234,57,31,69,6.9,Mustard
+4.4,Flood,28,49,Sandy,Winter,234,81,32,74,7.0,Sweet Potato
+2.8,Sprinkler,12,41,Loam,Monsoon,186,94,47,52,6.1,Watermelon
+2.5,Flood,53,44,Sandy,Rainy,210,95,27,80,5.6,Kale
+2.6,Drip,47,46,Loam,Monsoon,232,68,46,76,6.5,Pumpkin
+1.7,Drip,64,41,Clay,Winter,242,55,27,57,6.5,Soybean
+4.1,Flood,22,57,Sandy,Rainy,151,70,49,50,7.3,Kale
+3.3,Sprinkler,59,65,Loam,Monsoon,151,63,30,60,7.4,Papaya
+3.8,Sprinkler,62,36,Clay,Monsoon,233,66,38,80,7.2,Chili
+4.3,Sprinkler,45,69,Sandy,Summer,204,56,39,58,5.7,Oats
+2.6,Sprinkler,27,40,Sandy,Rainy,152,86,28,55,6.2,Wheat
+1.1,Flood,20,22,Clay,Winter,158,55,33,66,6.6,Mushroom
+3.9,Sprinkler,27,69,Clay,Winter,163,79,34,79,5.9,Broad Bean
+4.7,Drip,54,29,Clay,Winter,197,73,20,50,6.3,Kale
+1.5,Drip,25,28,Clay,Monsoon,228,95,43,55,5.9,Safflower
+1.9,Flood,70,38,Loam,Rainy,124,94,35,65,5.9,Peanut
+4.0,Drip,68,11,Loam,Rainy,187,65,33,59,6.2,Cabbage
+5.0,Drip,32,54,Sandy,Summer,216,92,42,66,6.3,Groundnut
+2.9,Sprinkler,28,27,Sandy,Monsoon,187,61,42,69,7.5,Hemp
+4.9,Drip,63,32,Loam,Rainy,160,87,33,78,7.1,Chili Pepper
+1.6,Sprinkler,42,14,Clay,Summer,248,81,26,67,5.6,Kale
+1.7,Flood,43,70,Clay,Summer,243,60,22,64,5.9,Basil
+2.4,Sprinkler,49,70,Loam,Monsoon,123,78,24,66,6.5,Tobacco
+1.2,Drip,68,49,Sandy,Rainy,113,100,36,56,5.9,Cabbage
+2.9,Drip,68,15,Sandy,Winter,236,52,49,66,6.7,Mung Bean
+1.7,Flood,33,64,Sandy,Rainy,136,60,35,66,5.5,Groundnut
+3.4,Drip,38,10,Loam,Rainy,170,53,37,59,7.0,Mustard
+1.3,Flood,38,54,Clay,Winter,112,91,46,78,7.5,Yam
+1.2,Flood,15,45,Clay,Winter,234,99,23,63,6.2,Hemp
+4.7,Sprinkler,47,13,Sandy,Monsoon,107,67,27,59,5.5,Rice
+1.5,Flood,38,23,Clay,Rainy,229,91,22,57,6.8,Coffee
+3.9,Flood,21,26,Sandy,Rainy,164,56,27,65,6.1,Tea
+3.4,Drip,63,51,Loam,Winter,213,88,50,69,6.0,Parsley
+3.2,Flood,60,39,Sandy,Rainy,185,90,40,80,6.9,Sugarcane
+4.8,Flood,65,27,Loam,Summer,186,74,39,63,7.4,Guava
+1.5,Drip,54,43,Clay,Summer,230,75,39,50,5.7,Kidney Bean
+3.9,Drip,54,56,Clay,Rainy,145,50,21,77,5.8,Lima Bean
+4.4,Drip,70,23,Loam,Rainy,151,57,30,72,6.4,Carrot
+4.5,Drip,54,15,Clay,Rainy,169,50,42,63,6.8,Mung Bean
+2.7,Flood,61,42,Sandy,Monsoon,103,78,41,74,5.8,Mung Bean
+1.3,Sprinkler,29,19,Clay,Summer,114,76,21,51,5.9,Brinjal
+4.7,Sprinkler,49,57,Clay,Winter,177,89,29,66,5.9,Peas
+1.6,Flood,21,63,Loam,Winter,101,85,25,62,7.2,Coffee
+4.2,Drip,16,27,Sandy,Summer,195,76,45,79,6.0,Zucchini
+2.9,Sprinkler,54,26,Sandy,Monsoon,147,58,47,78,5.6,Lemon
+4.8,Drip,60,21,Sandy,Winter,128,51,27,62,6.8,Sesame
+2.4,Flood,49,62,Loam,Winter,129,74,28,52,5.8,Groundnut
+2.4,Flood,30,58,Loam,Winter,163,81,20,69,5.9,Chili
+3.2,Flood,30,22,Clay,Summer,130,76,41,65,6.1,Lemon
+2.5,Sprinkler,36,26,Clay,Winter,120,69,22,70,5.6,Cranberry Bean
+4.7,Flood,15,19,Loam,Monsoon,194,94,25,54,6.2,Mango
+1.4,Sprinkler,62,62,Sandy,Rainy,194,59,48,52,6.9,Avocado
+3.7,Flood,21,67,Sandy,Monsoon,235,64,48,56,5.8,Maize
+4.4,Flood,44,28,Sandy,Rainy,163,55,21,65,7.3,Papaya
+1.5,Sprinkler,44,26,Sandy,Rainy,249,69,50,79,5.7,Chia Seeds
+2.4,Flood,66,28,Loam,Winter,116,72,30,53,7.3,Onion
+1.2,Flood,12,20,Clay,Winter,232,67,20,76,5.6,Coffee
+3.0,Flood,60,50,Clay,Winter,177,72,35,51,7.3,Sunflower Seeds
+2.1,Flood,65,11,Sandy,Monsoon,156,68,38,55,7.4,Mint
+4.0,Drip,59,49,Sandy,Rainy,246,66,46,57,6.1,Carrot
+3.5,Drip,44,52,Sandy,Summer,132,74,45,56,5.9,Flax Seeds
+2.4,Sprinkler,49,42,Clay,Summer,233,92,22,72,6.6,Mushroom
+1.3,Flood,16,47,Clay,Summer,129,97,22,57,6.4,Mustard
+4.3,Flood,11,28,Loam,Winter,147,85,24,66,6.4,Maize
+4.0,Drip,19,52,Loam,Winter,223,88,39,53,5.6,Barley
+2.2,Drip,55,34,Clay,Monsoon,225,81,39,76,6.3,Chili Pepper
+2.0,Sprinkler,32,36,Loam,Rainy,140,78,37,58,6.2,Cabbage
+3.5,Sprinkler,61,56,Sandy,Monsoon,102,99,39,62,5.5,Tobacco
+3.1,Drip,36,54,Loam,Monsoon,121,85,25,77,6.4,Soybean
+1.1,Flood,13,10,Sandy,Rainy,190,77,30,51,7.4,Peas
+4.6,Drip,28,26,Sandy,Rainy,156,54,40,58,7.0,Watermelon
+4.3,Flood,12,57,Sandy,Summer,177,81,45,76,6.2,Spinach
+1.4,Sprinkler,64,22,Clay,Rainy,155,59,40,56,6.8,Jute
+2.8,Sprinkler,31,58,Sandy,Rainy,120,56,27,75,6.5,Papaya
+1.4,Flood,28,63,Loam,Summer,189,56,47,58,5.9,Cucumber
+4.0,Flood,65,29,Loam,Rainy,164,84,24,50,5.7,Sugarcane
+4.2,Sprinkler,70,56,Loam,Summer,162,54,35,54,6.0,Carrot
+1.7,Flood,36,42,Sandy,Summer,197,51,30,50,7.0,Cotton
+1.7,Sprinkler,67,25,Loam,Winter,242,75,25,67,7.0,Pumpkin Seeds
+1.3,Drip,68,55,Clay,Rainy,103,65,35,53,5.9,Lemon
+2.1,Flood,13,68,Sandy,Rainy,118,51,50,72,7.1,Yam
+4.3,Drip,41,58,Loam,Monsoon,173,96,22,58,6.6,Cassava
+1.8,Sprinkler,25,56,Sandy,Rainy,169,55,49,63,6.8,Wheat
+3.5,Drip,24,36,Sandy,Winter,128,62,31,51,5.5,Maize
+4.6,Drip,16,67,Clay,Winter,207,93,48,60,6.5,Ginger
+4.4,Flood,32,54,Sandy,Monsoon,209,68,40,50,6.1,Avocado
+4.3,Drip,22,41,Sandy,Rainy,132,67,40,55,5.9,Pumpkin
+3.9,Drip,60,48,Sandy,Rainy,121,90,50,51,6.5,Oats
+4.2,Flood,21,27,Loam,Summer,237,72,28,67,6.3,Maize
+2.2,Sprinkler,65,47,Sandy,Rainy,209,62,23,53,5.7,Lima Bean
+3.5,Drip,16,39,Loam,Summer,125,93,47,52,7.4,Cauliflower
+4.6,Drip,18,69,Loam,Summer,207,96,25,68,6.2,Pumpkin
+2.9,Drip,13,21,Sandy,Rainy,184,84,46,71,5.6,Tomato
+1.1,Sprinkler,19,43,Loam,Rainy,152,66,32,60,5.6,Sesame
+3.3,Flood,51,67,Loam,Summer,142,61,41,80,7.5,Peas
+4.4,Drip,35,52,Clay,Rainy,241,93,25,60,7.0,Navy Bean
+3.9,Drip,31,45,Clay,Monsoon,209,93,43,80,6.9,Broad Bean
+2.7,Sprinkler,16,43,Loam,Monsoon,139,60,48,55,5.7,Fava Bean
+2.5,Drip,17,27,Sandy,Monsoon,166,82,33,50,6.4,Turmeric
+2.4,Drip,60,34,Loam,Summer,147,77,39,69,6.4,Avocado
+4.1,Drip,28,52,Clay,Rainy,109,87,43,54,7.3,Soybean
+4.3,Flood,59,53,Loam,Winter,130,69,28,63,5.5,Onion
+2.6,Flood,20,50,Loam,Monsoon,236,69,42,75,5.7,Kale
+2.7,Drip,65,49,Clay,Winter,126,71,26,66,6.2,Pumpkin Seeds
+2.1,Sprinkler,27,60,Clay,Rainy,182,78,27,63,7.4,Mango
+4.9,Flood,41,46,Sandy,Rainy,195,99,34,74,5.6,Banana
+3.1,Flood,11,38,Clay,Winter,171,53,32,70,6.4,Papaya
+2.8,Sprinkler,18,57,Clay,Monsoon,146,95,34,51,5.6,Coriander
+2.1,Sprinkler,50,66,Sandy,Summer,249,92,27,53,7.2,Cauliflower
+1.5,Flood,14,44,Clay,Monsoon,161,83,48,65,6.6,Safflower
+2.2,Flood,29,55,Loam,Summer,173,76,33,69,5.5,Wheat
+2.1,Sprinkler,53,61,Sandy,Summer,157,73,49,62,5.8,Pinto Bean
+4.8,Sprinkler,26,16,Sandy,Winter,157,95,46,70,7.2,Cauliflower
+2.6,Drip,33,57,Loam,Rainy,245,71,23,76,6.9,Taro
+1.5,Sprinkler,65,30,Loam,Summer,225,50,50,75,6.8,Lettuce
+4.5,Drip,39,13,Loam,Summer,220,96,49,71,5.7,Jute
+2.0,Flood,62,32,Loam,Rainy,226,75,23,67,7.2,Cotton
+2.2,Flood,44,33,Clay,Summer,137,67,20,77,5.8,Mung Bean
+3.8,Sprinkler,29,17,Sandy,Winter,231,90,32,64,6.1,Chickpea
+3.0,Drip,64,55,Sandy,Winter,122,81,26,80,5.5,Safflower
+3.7,Sprinkler,66,40,Clay,Monsoon,214,77,34,78,7.0,Lima Bean
+4.1,Drip,56,47,Sandy,Winter,240,55,39,64,5.9,Grapes
+1.8,Sprinkler,23,22,Sandy,Monsoon,235,52,45,57,6.3,Barley
+1.8,Sprinkler,41,14,Clay,Monsoon,204,100,33,55,7.0,Lemon
+3.9,Sprinkler,70,12,Loam,Monsoon,167,62,31,64,6.5,Tomato
+1.7,Drip,10,65,Sandy,Summer,159,61,45,57,7.2,Hemp
+4.4,Flood,26,40,Clay,Monsoon,236,88,32,79,7.4,Maize
+3.6,Drip,33,16,Sandy,Rainy,218,76,36,52,6.4,Sunflower
+1.2,Flood,41,35,Sandy,Summer,220,69,33,75,6.0,Coriander
+4.3,Sprinkler,37,23,Loam,Summer,180,53,24,50,6.5,Basil
+5.0,Flood,69,32,Loam,Summer,102,95,26,52,7.0,Wheat
+4.1,Flood,10,50,Sandy,Summer,191,91,24,72,6.4,Guava
+2.4,Sprinkler,37,62,Clay,Summer,161,70,22,73,6.5,Peas
+2.0,Sprinkler,70,23,Clay,Winter,186,71,44,79,5.8,Hemp
+3.2,Drip,18,38,Loam,Monsoon,196,57,23,69,6.5,Peanut
+2.1,Flood,66,16,Sandy,Summer,200,93,43,52,6.1,Safflower
+4.4,Drip,48,10,Loam,Monsoon,196,98,40,60,6.7,Fava Bean
+3.1,Sprinkler,56,28,Clay,Winter,150,64,50,69,6.8,Sunflower
+4.1,Sprinkler,49,58,Clay,Winter,165,65,20,79,6.0,Beetroot
+1.8,Drip,69,38,Sandy,Monsoon,159,52,39,61,6.9,Radish
+3.9,Drip,26,12,Sandy,Monsoon,191,88,44,67,7.5,Yam
+4.4,Drip,14,15,Clay,Summer,137,76,38,56,5.7,Coffee
+4.8,Flood,54,59,Clay,Winter,142,74,45,80,5.7,Black Bean
+1.3,Flood,10,27,Sandy,Rainy,227,68,49,58,6.9,Kale
+2.1,Flood,34,34,Clay,Rainy,132,82,43,53,6.2,Hemp
+2.7,Drip,43,24,Sandy,Monsoon,217,97,34,69,7.3,Soybean
+3.0,Sprinkler,63,27,Clay,Summer,223,56,21,76,6.0,Lettuce
+2.6,Flood,26,59,Sandy,Monsoon,233,52,48,58,6.8,Apple
+1.1,Sprinkler,11,46,Loam,Rainy,208,75,35,79,7.2,Tomato
+2.4,Drip,24,52,Sandy,Rainy,106,88,24,65,5.9,Soybean
+4.6,Drip,57,27,Clay,Monsoon,178,99,28,77,7.3,Rice
+4.0,Sprinkler,11,26,Clay,Monsoon,220,50,42,52,6.8,Jute
+2.0,Sprinkler,50,45,Loam,Summer,118,69,50,59,7.2,Garlic
+1.6,Sprinkler,62,63,Loam,Winter,236,86,21,65,5.7,Lettuce
+4.7,Drip,55,18,Sandy,Monsoon,209,73,30,66,5.9,Tea
+3.1,Drip,12,69,Sandy,Monsoon,246,98,25,63,7.4,Pineapple
+3.6,Drip,56,38,Sandy,Monsoon,220,63,24,59,5.8,Kidney Bean
+2.3,Sprinkler,38,32,Loam,Monsoon,209,59,38,65,6.7,Cabbage
+4.3,Flood,42,22,Clay,Rainy,211,82,31,63,6.4,Potato
+2.2,Sprinkler,55,34,Sandy,Winter,159,62,37,69,7.3,Chili
+1.2,Flood,56,41,Clay,Summer,104,66,33,70,6.0,Kale
+3.5,Flood,37,32,Clay,Rainy,214,51,25,65,6.2,Pomegranate
+2.0,Sprinkler,70,42,Loam,Summer,197,78,21,72,7.0,Kale
+3.1,Sprinkler,37,26,Clay,Rainy,135,52,32,56,7.3,Fava Bean
+3.0,Sprinkler,62,51,Clay,Rainy,235,58,42,65,6.0,Grapes
+2.0,Drip,51,53,Loam,Summer,151,59,20,62,6.5,Onion
+1.3,Drip,60,35,Sandy,Monsoon,237,82,39,56,6.1,Lettuce
+4.7,Sprinkler,56,12,Loam,Monsoon,125,94,47,68,7.3,Groundnut
+2.5,Drip,23,34,Loam,Summer,159,56,28,78,6.4,Cauliflower
+3.9,Sprinkler,60,40,Sandy,Monsoon,231,79,42,56,7.0,Turmeric
+3.9,Flood,41,50,Sandy,Monsoon,202,65,27,70,5.8,Cabbage
+2.1,Flood,28,20,Clay,Rainy,179,51,42,71,5.9,Brinjal
+4.0,Sprinkler,49,26,Sandy,Winter,176,84,30,55,5.9,Watermelon
+4.1,Flood,42,66,Loam,Rainy,217,86,33,54,6.4,Navy Bean
+4.5,Drip,14,44,Loam,Summer,232,78,24,66,6.7,Cranberry Bean
+1.3,Sprinkler,69,61,Sandy,Rainy,159,54,41,73,6.5,Onion
+4.1,Sprinkler,18,55,Loam,Winter,113,60,40,51,6.8,Sunflower Seeds
+1.9,Sprinkler,48,58,Clay,Winter,220,69,33,69,7.4,Cauliflower
+4.8,Flood,26,66,Clay,Winter,132,53,23,65,6.0,Tobacco
+3.3,Sprinkler,48,20,Loam,Rainy,107,92,33,56,6.8,Kale
+3.2,Drip,69,35,Sandy,Rainy,235,73,41,60,6.5,Sweet Potato
+3.2,Flood,40,64,Loam,Summer,152,99,30,76,6.5,Maize
+3.6,Flood,60,58,Loam,Summer,131,78,44,50,6.5,Ginger
+4.6,Flood,35,41,Clay,Summer,153,83,49,66,6.0,Parsley
+1.1,Drip,58,47,Loam,Rainy,163,65,42,61,5.6,Broad Bean
+4.2,Flood,70,55,Loam,Winter,197,91,41,76,7.1,Pomegranate
+2.5,Flood,30,56,Sandy,Summer,211,82,30,68,6.1,Sunflower
+2.8,Sprinkler,11,67,Sandy,Summer,103,59,36,57,6.8,Hemp
+2.0,Drip,28,60,Clay,Winter,164,95,40,52,5.9,Parsley
+2.0,Drip,63,46,Loam,Monsoon,158,61,50,76,7.3,Papaya
+2.8,Drip,68,55,Sandy,Monsoon,113,80,25,57,7.1,Maize
+4.4,Sprinkler,36,47,Sandy,Rainy,131,67,23,77,5.8,Cauliflower
+2.2,Sprinkler,51,33,Loam,Rainy,146,98,45,80,6.8,Kale
+3.7,Drip,29,29,Clay,Summer,137,60,46,72,5.7,Parsley
+2.4,Flood,29,66,Sandy,Monsoon,164,96,42,69,6.6,Kale
+1.4,Flood,25,41,Loam,Winter,187,97,23,69,5.8,Maize
+4.7,Sprinkler,52,27,Clay,Winter,166,50,31,69,7.1,Cranberry Bean
+1.5,Flood,64,39,Sandy,Winter,129,63,23,72,5.7,Mint
+3.5,Flood,19,29,Clay,Monsoon,189,100,44,74,5.9,Rice
+3.9,Drip,48,36,Sandy,Winter,127,73,48,64,7.3,Potato
+3.5,Drip,49,63,Loam,Winter,207,64,23,59,7.0,Turmeric
+3.5,Drip,18,70,Loam,Monsoon,159,87,40,60,7.0,Peas
+3.0,Sprinkler,46,41,Clay,Winter,102,89,37,67,5.8,Spinach
+1.9,Flood,33,24,Loam,Winter,179,66,24,66,6.7,Black Bean
+4.2,Sprinkler,40,33,Sandy,Monsoon,124,74,20,74,6.0,Guava
+1.5,Sprinkler,63,51,Clay,Monsoon,172,67,39,73,7.0,Sunflower Seeds
+4.6,Drip,12,18,Clay,Monsoon,139,73,42,75,7.3,Onion
+2.8,Flood,16,35,Clay,Rainy,126,68,49,54,6.7,Pomegranate
+1.2,Sprinkler,51,42,Clay,Rainy,191,92,21,76,7.0,Papaya
+4.3,Sprinkler,20,12,Clay,Monsoon,113,92,35,59,7.1,Tea
+4.4,Drip,49,68,Clay,Monsoon,102,69,36,75,5.9,Jute
+3.2,Sprinkler,27,24,Loam,Summer,153,70,35,74,6.4,Brinjal
+1.3,Drip,56,14,Clay,Summer,238,89,30,67,5.6,Pumpkin
+1.4,Sprinkler,25,11,Sandy,Winter,229,52,37,73,6.7,Sugarcane
+3.5,Drip,19,37,Loam,Rainy,148,86,31,68,7.4,Rice
+3.2,Drip,15,20,Loam,Summer,161,55,32,58,6.2,Mushroom
+1.7,Drip,14,58,Loam,Summer,134,92,23,79,5.8,Chili Pepper
+2.4,Sprinkler,66,46,Clay,Monsoon,188,80,39,68,5.6,Potato
+3.6,Drip,31,60,Clay,Monsoon,148,72,27,73,7.4,Sesame
+2.5,Sprinkler,12,13,Sandy,Monsoon,212,72,49,51,6.0,Turmeric
+4.1,Flood,57,53,Sandy,Rainy,126,65,43,52,6.5,Pineapple
+3.3,Flood,61,42,Loam,Winter,212,56,32,68,6.5,Mustard
+4.0,Drip,65,61,Clay,Rainy,149,62,28,73,6.4,Coffee
+2.5,Sprinkler,52,70,Loam,Monsoon,111,64,46,62,5.8,Carrot
+3.5,Flood,18,19,Loam,Summer,107,85,47,61,6.4,Tomato
+4.1,Sprinkler,58,20,Clay,Summer,118,76,27,53,6.0,Cabbage
+4.9,Flood,61,67,Loam,Monsoon,159,63,26,57,6.4,Tobacco
+3.9,Sprinkler,49,58,Sandy,Summer,199,91,34,62,6.6,Sunflower Seeds
+3.4,Flood,39,46,Loam,Summer,223,77,30,61,6.8,Radish
+4.6,Drip,36,70,Sandy,Summer,169,53,36,74,5.9,Parsley
+1.2,Sprinkler,23,55,Clay,Winter,191,94,41,62,6.0,Broad Bean
+4.3,Sprinkler,22,13,Sandy,Monsoon,153,65,42,73,7.0,Coriander
+4.1,Flood,38,62,Sandy,Monsoon,188,69,42,63,6.7,Zucchini
+1.8,Sprinkler,41,20,Loam,Summer,196,55,31,58,7.2,Sunflower Seeds
+1.3,Flood,51,59,Sandy,Summer,135,94,42,75,7.4,Turmeric
+2.9,Sprinkler,44,35,Clay,Summer,156,52,33,58,5.7,Barley
+4.1,Sprinkler,35,42,Sandy,Summer,149,62,25,62,6.8,Dragonfruit
+1.4,Drip,65,28,Loam,Monsoon,209,56,29,63,6.0,Jute
+2.7,Drip,20,62,Loam,Winter,216,62,27,62,7.5,Cucumber
+1.1,Flood,31,62,Sandy,Winter,210,78,38,65,5.8,Tobacco
+2.6,Sprinkler,39,14,Clay,Summer,106,96,21,78,6.6,Lettuce
+3.2,Drip,46,60,Loam,Winter,227,87,32,80,6.9,Sunflower Seeds
+2.4,Drip,44,44,Clay,Winter,169,100,42,65,5.7,Pumpkin Seeds
+2.9,Sprinkler,30,18,Clay,Monsoon,250,64,40,56,6.2,Cucumber
+2.6,Drip,19,54,Clay,Rainy,168,84,40,77,7.3,Fava Bean
+4.3,Sprinkler,49,35,Clay,Summer,118,59,47,63,6.8,Sugarcane
+3.8,Sprinkler,13,45,Clay,Winter,181,85,39,76,5.8,Navy Bean
+4.6,Drip,49,53,Loam,Winter,171,60,44,78,6.3,Maize
+2.6,Drip,56,48,Clay,Rainy,131,72,38,50,7.3,Cotton
+1.1,Drip,28,17,Clay,Summer,115,92,21,57,6.2,Chickpea
+5.0,Drip,13,44,Loam,Rainy,240,78,21,61,6.5,Chili
+1.1,Drip,20,36,Clay,Winter,215,68,35,75,6.7,Taro
+3.1,Flood,14,43,Clay,Monsoon,154,71,34,76,5.5,Fava Bean
+2.3,Flood,40,28,Sandy,Monsoon,126,100,26,51,6.5,Chili
+2.3,Flood,62,36,Clay,Winter,130,71,29,60,6.1,Brinjal
+4.3,Flood,29,64,Loam,Winter,130,71,30,60,7.1,Safflower
+3.6,Sprinkler,69,48,Loam,Rainy,205,100,49,63,6.9,Black Bean
+1.9,Sprinkler,44,28,Sandy,Summer,196,86,42,50,6.7,Beetroot
+4.5,Drip,48,33,Loam,Summer,187,63,47,67,7.4,Lima Bean
+1.7,Drip,13,13,Sandy,Summer,100,99,44,73,5.6,Cranberry Bean
+2.0,Flood,45,30,Sandy,Rainy,193,52,28,70,6.6,Spinach
+3.3,Sprinkler,41,45,Clay,Winter,152,56,30,74,6.4,Soybean
+1.6,Sprinkler,37,46,Loam,Summer,148,87,41,76,5.9,Tobacco
+4.0,Sprinkler,67,59,Clay,Rainy,241,73,25,54,6.8,Coconut
+4.1,Sprinkler,39,33,Sandy,Rainy,224,93,43,74,5.6,Oats
+4.9,Drip,35,47,Clay,Rainy,177,88,49,60,6.3,Navy Bean
+1.5,Sprinkler,54,29,Clay,Winter,165,78,39,50,5.6,Broad Bean
+1.7,Drip,62,25,Clay,Monsoon,105,95,44,68,5.7,Oats
+1.1,Flood,67,37,Sandy,Winter,153,66,48,74,6.6,Soybean
+1.2,Sprinkler,62,11,Sandy,Monsoon,147,51,27,54,6.2,Jute
+1.3,Flood,59,16,Sandy,Summer,139,89,29,57,7.3,Chia Seeds
+2.1,Flood,17,69,Sandy,Rainy,241,62,45,65,6.4,Oats
+3.1,Sprinkler,23,30,Loam,Rainy,246,87,34,54,5.7,Chili
+3.6,Sprinkler,56,32,Clay,Summer,172,93,45,62,6.7,Pomegranate
+4.5,Flood,47,36,Sandy,Rainy,198,98,33,80,7.1,Sunflower
+2.2,Drip,55,27,Clay,Summer,201,65,36,77,7.1,Brinjal
+2.0,Flood,50,27,Sandy,Winter,151,56,42,64,7.4,Brinjal
+3.9,Sprinkler,13,41,Clay,Monsoon,243,78,25,77,7.0,Oats
+1.2,Sprinkler,44,25,Clay,Winter,148,87,50,80,5.5,Mung Bean
+4.6,Flood,41,66,Clay,Winter,173,85,21,58,6.4,Sugarcane
+2.8,Sprinkler,68,61,Sandy,Winter,118,89,42,58,6.3,Pineapple
+4.8,Flood,61,49,Sandy,Monsoon,159,58,50,53,5.8,Mung Bean
+2.4,Flood,19,66,Clay,Monsoon,163,55,44,56,6.3,Hemp
+1.1,Flood,28,10,Clay,Monsoon,124,75,31,75,6.5,Cassava
+4.4,Sprinkler,44,70,Clay,Winter,194,64,26,59,7.2,Mushroom
+1.4,Drip,62,43,Clay,Rainy,175,57,21,76,6.2,Mint
+1.9,Drip,49,15,Clay,Winter,211,64,33,54,7.4,Jute
+3.9,Drip,50,52,Sandy,Monsoon,186,50,33,80,5.9,Mango
+1.2,Sprinkler,62,64,Loam,Winter,105,97,26,75,6.8,Apple
+2.7,Drip,69,22,Loam,Monsoon,117,85,30,77,5.8,Lentil
+1.9,Sprinkler,45,48,Sandy,Monsoon,142,71,47,54,6.2,Flax Seeds
+4.4,Flood,62,18,Clay,Rainy,137,81,40,55,7.5,Cotton
+2.4,Flood,43,38,Clay,Rainy,191,55,20,71,5.7,Rice
+4.3,Flood,11,11,Sandy,Summer,125,80,46,66,6.9,Cucumber
+5.0,Sprinkler,45,62,Sandy,Summer,250,73,31,56,5.9,Maize
+2.0,Flood,10,31,Sandy,Summer,104,71,33,62,6.6,Guava
+1.9,Drip,30,18,Clay,Winter,233,71,43,64,6.6,Garlic
+2.2,Drip,19,42,Sandy,Winter,184,55,44,58,6.1,Cotton
+2.0,Flood,10,55,Loam,Winter,249,64,26,60,7.4,Sunflower
+1.3,Flood,47,66,Sandy,Winter,163,72,33,79,5.8,Tomato
+3.3,Drip,50,21,Clay,Summer,114,90,23,71,6.2,Ginger
+1.4,Drip,30,10,Sandy,Monsoon,119,59,50,53,6.6,Cucumber
+2.0,Flood,25,21,Loam,Monsoon,193,85,30,79,7.0,Soybean
+2.0,Sprinkler,24,45,Clay,Rainy,198,78,49,59,5.6,Kidney Bean
+3.0,Sprinkler,31,70,Sandy,Winter,247,92,30,50,6.4,Cranberry Bean
+2.0,Flood,32,66,Sandy,Winter,127,72,42,53,7.3,Sunflower
+4.2,Drip,10,31,Sandy,Winter,194,79,36,72,6.8,Coffee
+4.4,Drip,15,54,Sandy,Summer,118,71,42,65,5.8,Garlic
+2.8,Flood,17,33,Loam,Monsoon,216,79,29,58,6.9,Potato
+3.4,Flood,24,54,Clay,Rainy,161,93,27,56,7.1,Fava Bean
+1.5,Flood,48,17,Sandy,Monsoon,138,91,25,65,5.7,Beetroot
+4.1,Sprinkler,24,12,Sandy,Monsoon,243,59,44,64,7.4,Mint
+1.8,Sprinkler,53,59,Loam,Winter,245,84,34,70,7.2,Fava Bean
+3.2,Drip,26,41,Loam,Winter,149,89,30,72,6.5,Coriander
+2.6,Flood,61,28,Loam,Rainy,137,65,43,79,6.1,Pineapple
+3.6,Flood,69,34,Clay,Summer,229,77,26,52,5.9,Cotton
+4.1,Sprinkler,55,68,Loam,Monsoon,119,85,23,60,6.1,Sunflower
+2.9,Drip,63,38,Loam,Monsoon,112,51,47,55,6.8,Apple
+2.8,Sprinkler,44,14,Sandy,Rainy,213,66,25,60,5.8,Black Bean
+2.4,Sprinkler,45,23,Loam,Summer,173,95,41,52,7.2,Lemon
+2.7,Sprinkler,20,37,Clay,Summer,157,78,36,61,7.1,Fava Bean
+4.8,Sprinkler,47,24,Sandy,Summer,198,83,21,55,6.6,Coriander
+3.7,Drip,47,11,Sandy,Monsoon,176,56,28,69,7.4,Coconut
+1.7,Sprinkler,11,38,Sandy,Winter,154,59,35,50,7.0,Tobacco
+3.4,Sprinkler,48,37,Clay,Monsoon,217,82,40,79,6.1,Mushroom
+2.4,Flood,19,14,Clay,Summer,150,76,39,62,6.5,Carrot
+3.7,Drip,14,52,Sandy,Monsoon,187,75,22,72,7.2,Grapes
+3.9,Flood,38,18,Loam,Summer,178,84,31,54,5.5,Lima Bean
+1.7,Drip,61,23,Loam,Winter,130,90,22,57,7.2,Hemp
+4.0,Drip,17,13,Loam,Monsoon,198,77,42,60,6.0,Navy Bean
+1.6,Sprinkler,38,42,Clay,Monsoon,186,91,41,73,6.8,Sugarcane
+2.0,Flood,55,16,Clay,Rainy,239,83,43,57,6.5,Turmeric
+2.9,Drip,29,10,Clay,Summer,211,99,41,70,5.6,Oats
+3.1,Drip,20,39,Sandy,Summer,201,91,26,75,6.7,Kidney Bean
+4.7,Drip,26,68,Sandy,Winter,136,74,36,70,6.4,Mint
+3.1,Drip,35,35,Sandy,Summer,239,76,49,55,7.2,Parsley
+2.0,Flood,32,31,Clay,Winter,100,74,47,50,7.3,Hemp
+2.3,Sprinkler,57,58,Loam,Winter,126,59,37,63,5.7,Papaya
+1.6,Flood,37,44,Clay,Rainy,229,68,47,54,7.4,Avocado
+1.0,Drip,61,12,Sandy,Winter,161,93,48,80,5.9,Tomato
+4.3,Sprinkler,61,49,Sandy,Summer,135,61,46,63,7.0,Mango
+1.5,Sprinkler,14,22,Loam,Rainy,162,65,20,60,5.9,Sweet Potato
+1.8,Flood,67,21,Loam,Summer,219,59,25,62,7.0,Parsley
+2.4,Drip,57,42,Clay,Winter,218,70,24,60,5.7,Safflower
+1.1,Drip,54,39,Loam,Monsoon,202,66,22,52,6.9,Cabbage
+4.0,Sprinkler,56,54,Sandy,Summer,205,68,29,69,7.2,Lemon
+2.6,Sprinkler,67,67,Clay,Summer,183,67,35,69,5.7,Soybean
+2.6,Flood,64,23,Clay,Summer,231,60,28,58,5.5,Pumpkin Seeds
+1.4,Flood,24,69,Clay,Monsoon,108,85,48,54,6.7,Mustard
+3.9,Flood,59,24,Clay,Summer,111,86,22,50,6.7,Navy Bean
+2.3,Flood,24,58,Loam,Rainy,241,98,21,58,7.1,Black Bean
+3.5,Flood,63,66,Clay,Monsoon,196,68,36,62,7.0,Tea
+4.3,Drip,41,44,Sandy,Rainy,129,53,28,72,5.9,Ginger
+2.3,Sprinkler,59,52,Loam,Rainy,219,58,35,74,6.2,Watermelon
+3.9,Sprinkler,58,28,Loam,Rainy,146,63,43,55,7.2,Hemp
+1.2,Flood,48,15,Loam,Rainy,250,96,26,73,6.2,Cranberry Bean
+4.9,Sprinkler,27,15,Clay,Winter,123,85,33,75,5.6,Tea
+4.1,Sprinkler,22,46,Loam,Rainy,248,80,28,59,5.6,Sugarcane
+3.4,Flood,48,34,Sandy,Winter,193,64,27,56,7.4,Avocado
+4.9,Sprinkler,46,48,Loam,Summer,119,83,22,63,5.7,Sugarcane
+4.1,Sprinkler,42,46,Clay,Winter,101,61,26,79,6.6,Flax Seeds
+2.3,Sprinkler,28,39,Loam,Winter,104,71,32,79,6.0,Oats
+1.4,Flood,11,68,Clay,Rainy,223,50,35,73,6.8,Coffee
+3.2,Flood,45,35,Loam,Rainy,119,57,42,77,5.7,Garlic
+3.2,Drip,20,56,Sandy,Monsoon,213,97,39,54,5.9,Spinach
+2.5,Flood,57,26,Clay,Monsoon,187,85,36,58,7.4,Pinto Bean
+1.9,Drip,27,40,Loam,Monsoon,108,51,47,54,6.0,Turmeric
+2.0,Drip,35,20,Clay,Monsoon,105,99,50,63,6.9,Garlic
+2.4,Drip,70,56,Loam,Rainy,138,69,37,63,7.0,Lemon
+3.4,Drip,49,14,Clay,Rainy,241,64,22,73,7.0,Onion
+4.4,Sprinkler,26,51,Sandy,Rainy,230,54,42,59,6.2,Dragonfruit
+1.7,Sprinkler,43,27,Loam,Monsoon,234,86,24,75,6.6,Fava Bean
+4.9,Flood,58,61,Sandy,Summer,161,64,41,51,5.8,Chili Pepper
+2.9,Drip,29,10,Loam,Monsoon,107,83,39,75,5.9,Guava
+1.9,Drip,27,15,Clay,Winter,203,55,33,80,7.4,Chickpea
+2.1,Drip,30,46,Loam,Winter,134,58,29,69,6.8,Peanut
+1.0,Drip,33,16,Sandy,Summer,175,73,47,59,6.0,Parsley
+1.4,Sprinkler,32,34,Clay,Monsoon,212,83,36,79,6.0,Sugarcane
+1.0,Flood,32,18,Clay,Monsoon,155,64,35,66,7.2,Dragonfruit
+3.4,Sprinkler,53,69,Sandy,Winter,123,64,48,75,7.4,Potato
+2.3,Flood,25,60,Loam,Summer,107,62,40,57,7.3,Watermelon
+1.5,Drip,38,64,Clay,Winter,121,94,25,65,6.1,Apple
+1.7,Flood,61,59,Sandy,Rainy,247,87,30,57,5.9,Guava
+3.7,Sprinkler,12,21,Sandy,Winter,100,78,39,67,5.5,Tobacco
+3.6,Drip,33,34,Sandy,Summer,213,86,38,73,6.9,Peanut
+1.2,Drip,19,24,Loam,Winter,241,95,29,54,6.7,Chickpea
+2.1,Sprinkler,24,49,Clay,Summer,167,50,43,71,7.2,Coriander
+1.8,Drip,36,28,Sandy,Summer,130,59,34,79,7.5,Zucchini
+2.6,Flood,21,39,Clay,Rainy,210,97,29,58,6.2,Cabbage
+2.8,Sprinkler,39,18,Loam,Winter,104,66,27,68,5.8,Oats
+3.0,Sprinkler,38,23,Clay,Rainy,118,79,49,73,6.9,Apple
+4.3,Flood,36,42,Loam,Monsoon,185,50,27,74,6.5,Pumpkin
+1.5,Sprinkler,13,13,Loam,Monsoon,174,91,20,56,7.2,Flax Seeds
+4.5,Drip,61,68,Loam,Summer,162,88,50,57,7.1,Watermelon
+1.8,Drip,10,21,Clay,Winter,165,94,41,54,6.4,Carrot
+3.4,Sprinkler,31,23,Clay,Rainy,148,76,45,53,6.0,Turmeric
+3.7,Flood,35,42,Sandy,Summer,182,88,47,64,5.8,Cabbage
+2.0,Flood,45,56,Clay,Monsoon,179,94,35,80,6.4,Cauliflower
+1.7,Drip,21,65,Sandy,Summer,179,74,26,79,6.5,Groundnut
+4.9,Drip,14,21,Sandy,Monsoon,196,94,48,63,7.0,Dragonfruit
+2.7,Drip,21,39,Clay,Winter,211,81,45,50,7.0,Turmeric
+2.0,Drip,16,28,Clay,Winter,189,74,33,55,5.6,Oats
+4.1,Drip,64,59,Clay,Summer,161,74,25,59,5.9,Coffee
+3.5,Sprinkler,69,37,Loam,Rainy,170,78,35,69,6.3,Parsley
+2.1,Flood,28,21,Clay,Monsoon,227,74,21,64,5.8,Kidney Bean
+4.5,Flood,35,40,Loam,Rainy,115,53,39,56,7.2,Sunflower
+2.3,Flood,27,69,Loam,Rainy,220,53,28,58,7.0,Pumpkin
+1.6,Drip,25,63,Loam,Monsoon,209,62,45,75,5.6,Guava
+3.8,Drip,32,66,Sandy,Rainy,142,59,37,53,7.4,Soybean
+2.9,Drip,49,32,Loam,Monsoon,117,86,42,53,5.7,Black Bean
+2.5,Flood,62,13,Sandy,Winter,102,91,24,79,7.1,Chickpea
+2.8,Flood,17,17,Loam,Winter,154,86,25,70,5.7,Sesame
+4.6,Sprinkler,59,13,Clay,Rainy,224,83,34,79,6.0,Banana
+4.1,Drip,27,19,Clay,Winter,185,97,27,53,6.5,Jute
+2.3,Sprinkler,28,49,Loam,Rainy,139,92,44,66,6.8,Ginger
+1.9,Flood,33,51,Sandy,Rainy,151,92,48,79,6.1,Coconut
+2.3,Drip,43,50,Clay,Monsoon,233,95,42,71,7.3,Safflower
+2.4,Sprinkler,55,14,Sandy,Rainy,155,88,47,57,6.8,Mung Bean
+3.1,Sprinkler,12,57,Clay,Summer,238,96,21,60,7.5,Lettuce
+4.8,Drip,70,31,Clay,Summer,178,71,31,75,6.9,Flax Seeds
+2.1,Drip,32,44,Loam,Monsoon,245,86,32,79,7.1,Carrot
+2.6,Drip,32,37,Clay,Winter,204,91,41,63,6.0,Cassava
+2.4,Sprinkler,44,23,Clay,Monsoon,148,61,49,68,7.4,Carrot
+4.7,Sprinkler,58,48,Clay,Rainy,101,86,43,77,7.2,Lentil
+1.5,Sprinkler,51,34,Loam,Summer,177,80,47,54,5.8,Pumpkin Seeds
+3.9,Drip,22,65,Loam,Monsoon,106,79,41,80,6.4,Chia Seeds
+1.8,Flood,15,57,Clay,Winter,221,99,21,66,5.8,Beetroot
+3.1,Flood,41,64,Loam,Winter,176,57,36,69,7.3,Papaya
+1.9,Drip,60,64,Loam,Rainy,164,84,47,76,7.1,Chili
+3.8,Flood,53,17,Clay,Rainy,173,84,32,59,7.2,Taro
+2.1,Flood,22,16,Sandy,Summer,177,98,35,80,5.7,Avocado
+3.4,Sprinkler,38,26,Loam,Monsoon,163,90,34,68,7.1,Parsley
+1.2,Flood,24,22,Loam,Summer,104,91,23,59,6.2,Pumpkin Seeds
+3.2,Drip,31,58,Loam,Rainy,222,51,37,77,6.7,Mung Bean
+1.9,Drip,31,13,Loam,Winter,203,67,38,58,5.8,Sesame
+1.5,Drip,14,12,Sandy,Rainy,100,76,24,80,5.6,Tobacco
+2.8,Sprinkler,42,35,Sandy,Summer,174,75,38,59,6.5,Kidney Bean
+2.6,Flood,57,10,Clay,Monsoon,150,79,23,53,6.4,Lettuce
+3.1,Drip,16,63,Clay,Summer,120,67,21,50,6.4,Sunflower
+3.2,Drip,20,54,Sandy,Rainy,154,81,33,73,5.6,Soybean
+3.6,Drip,47,42,Sandy,Winter,141,94,20,78,6.5,Pumpkin Seeds
+1.2,Drip,43,30,Loam,Summer,201,76,48,73,5.8,Oats
+4.3,Flood,62,38,Loam,Summer,175,86,35,52,6.6,Broad Bean
+3.4,Sprinkler,57,28,Sandy,Summer,229,63,34,53,5.6,Tomato
+4.5,Drip,45,22,Sandy,Summer,203,80,26,52,7.3,Parsley
+3.8,Drip,15,20,Loam,Monsoon,128,77,23,63,5.8,Tea
+2.4,Drip,36,36,Loam,Rainy,233,50,25,76,6.5,Radish
+1.6,Flood,51,32,Loam,Monsoon,118,69,43,79,6.8,Potato
+3.3,Sprinkler,12,69,Clay,Winter,132,51,23,61,6.8,Beetroot
+1.7,Drip,69,69,Loam,Winter,128,76,29,80,6.7,Ginger
+1.2,Sprinkler,27,46,Loam,Winter,183,87,40,79,5.7,Soybean
+4.7,Drip,55,10,Clay,Winter,243,59,43,69,6.0,Pumpkin
+4.1,Sprinkler,66,41,Sandy,Monsoon,152,74,35,62,7.5,Sugarcane
+4.1,Flood,66,66,Sandy,Summer,241,93,36,70,6.4,Radish
+4.0,Flood,56,59,Clay,Rainy,190,63,23,77,7.0,Pumpkin Seeds
+4.9,Sprinkler,41,69,Clay,Rainy,107,55,33,66,6.0,Onion
+3.2,Sprinkler,13,46,Loam,Winter,122,84,31,51,7.1,Wheat
+1.7,Sprinkler,69,11,Clay,Winter,153,88,48,55,6.8,Zucchini
+1.5,Sprinkler,27,15,Clay,Rainy,102,60,48,52,6.0,Sesame
+3.0,Flood,70,30,Loam,Winter,111,99,32,63,7.5,Fava Bean
+1.5,Sprinkler,45,56,Loam,Monsoon,122,80,49,67,7.3,Groundnut
+2.1,Drip,12,47,Clay,Summer,113,55,45,76,6.6,Watermelon
+4.1,Flood,28,14,Clay,Winter,169,75,33,61,7.1,Pumpkin Seeds
+4.0,Sprinkler,17,51,Sandy,Winter,134,87,46,72,7.0,Hemp
+3.6,Flood,50,53,Clay,Monsoon,221,69,43,74,7.0,Cassava
+1.7,Sprinkler,59,27,Clay,Winter,215,65,41,72,6.3,Oats
+3.9,Sprinkler,69,49,Clay,Rainy,172,81,41,69,7.3,Tea
+3.9,Drip,61,40,Clay,Summer,102,66,47,52,6.5,Soybean
+3.7,Flood,36,23,Sandy,Rainy,156,58,47,63,6.4,Onion
+3.9,Sprinkler,12,13,Sandy,Winter,192,93,50,59,5.6,Chili
+5.0,Flood,31,40,Clay,Winter,190,50,38,65,7.2,Mushroom
+2.0,Drip,13,10,Sandy,Monsoon,243,60,26,54,7.4,Banana
+4.1,Drip,52,61,Sandy,Summer,194,74,50,51,6.1,Wheat
+3.1,Sprinkler,32,61,Loam,Summer,156,63,34,69,7.1,Mustard
+3.3,Drip,57,43,Loam,Monsoon,202,98,22,70,5.7,Chili
+3.6,Drip,44,54,Loam,Rainy,102,70,47,64,7.2,Safflower
+2.7,Sprinkler,64,66,Loam,Winter,123,91,30,72,6.5,Ginger
+3.2,Drip,23,57,Clay,Winter,205,65,28,50,6.8,Wheat
+3.9,Sprinkler,67,66,Clay,Monsoon,102,74,30,50,7.1,Coffee
+4.8,Drip,11,58,Sandy,Monsoon,236,71,37,76,6.6,Chia Seeds
+1.0,Sprinkler,34,51,Sandy,Summer,199,86,39,56,7.3,Potato
+3.5,Flood,47,34,Loam,Winter,103,79,34,80,7.1,Parsley
+2.8,Sprinkler,59,54,Clay,Winter,248,93,38,54,7.5,Apple
+2.9,Flood,70,18,Clay,Rainy,194,87,44,69,6.6,Cotton
+1.1,Drip,28,70,Sandy,Monsoon,125,75,40,58,6.8,Pomegranate
+1.6,Drip,70,22,Clay,Rainy,233,97,24,79,6.6,Groundnut
+4.4,Flood,43,19,Loam,Monsoon,204,99,31,78,6.4,Mung Bean
+1.5,Drip,44,62,Loam,Winter,240,75,45,72,7.4,Sweet Potato
+3.4,Drip,16,66,Sandy,Summer,160,98,28,66,7.0,Cauliflower
+3.9,Flood,18,66,Sandy,Monsoon,226,87,23,70,5.6,Pomegranate
+1.3,Flood,10,36,Sandy,Winter,162,69,35,55,6.0,Garlic
+4.2,Flood,38,22,Sandy,Rainy,122,59,21,72,7.0,Cranberry Bean
+1.2,Sprinkler,23,45,Loam,Summer,244,77,33,76,6.2,Barley
+2.0,Flood,23,62,Clay,Rainy,166,74,47,78,5.7,Dragonfruit
+3.8,Sprinkler,20,15,Loam,Monsoon,137,90,37,52,7.1,Fava Bean
+3.8,Sprinkler,24,21,Loam,Monsoon,159,94,36,67,7.5,Cauliflower
+3.7,Sprinkler,34,31,Clay,Summer,135,88,49,76,6.1,Sunflower
+2.1,Sprinkler,11,13,Clay,Summer,209,69,34,51,6.2,Cabbage
+1.1,Sprinkler,65,36,Sandy,Monsoon,219,61,34,79,6.8,Chili Pepper
+3.6,Flood,13,46,Clay,Summer,107,71,37,54,6.0,Parsley
+3.4,Flood,54,32,Loam,Winter,160,98,43,77,6.5,Garlic
+2.6,Drip,46,60,Loam,Summer,103,72,33,56,7.1,Peanut
+4.3,Flood,28,19,Clay,Rainy,104,51,39,73,7.2,Cucumber
+3.7,Flood,45,28,Sandy,Rainy,151,62,21,79,6.0,Radish
+2.6,Flood,11,42,Sandy,Monsoon,183,77,43,52,6.8,Rice
+3.4,Drip,44,48,Loam,Rainy,170,90,48,71,6.3,Navy Bean
+1.7,Flood,64,58,Sandy,Monsoon,105,55,47,54,6.7,Tobacco
+2.1,Flood,68,24,Clay,Winter,141,92,47,57,6.6,Mint
+2.1,Flood,21,57,Sandy,Monsoon,105,73,47,64,7.1,Watermelon
+1.2,Flood,63,42,Sandy,Winter,130,86,22,54,5.6,Ginger
+4.1,Flood,14,10,Clay,Winter,228,80,24,79,6.8,Chili
+4.1,Sprinkler,24,31,Loam,Winter,173,79,20,72,7.3,Chili
+4.9,Drip,41,62,Loam,Rainy,231,90,44,51,6.3,Potato
+2.7,Drip,35,56,Sandy,Rainy,142,74,22,67,5.8,Onion
+4.9,Drip,26,51,Sandy,Monsoon,133,92,24,78,6.2,Potato
+4.7,Drip,35,25,Loam,Monsoon,222,58,37,76,6.7,Ginger
+2.8,Sprinkler,35,64,Sandy,Monsoon,136,51,27,63,6.4,Lemon
+2.8,Sprinkler,64,44,Clay,Summer,227,62,33,72,7.5,Chia Seeds
+3.5,Sprinkler,23,48,Sandy,Rainy,185,66,28,69,6.0,Pomegranate
+4.2,Sprinkler,67,55,Clay,Rainy,171,52,24,73,5.8,Ginger
+2.5,Flood,60,10,Sandy,Rainy,182,60,26,60,6.1,Tea
+2.5,Drip,51,27,Sandy,Rainy,229,69,39,54,7.3,Sesame
+1.0,Sprinkler,20,27,Sandy,Rainy,171,51,23,80,5.8,Tomato
+4.7,Flood,41,64,Sandy,Monsoon,230,61,28,54,5.8,Brinjal
+2.0,Sprinkler,49,42,Clay,Monsoon,173,59,50,73,7.0,Mustard
+1.1,Drip,37,15,Clay,Summer,172,94,31,65,5.9,Coriander
+1.7,Drip,60,58,Loam,Summer,188,68,35,63,6.1,Radish
+4.3,Sprinkler,37,26,Clay,Summer,174,53,22,66,7.2,Apple
+1.5,Flood,32,35,Clay,Rainy,147,91,49,76,6.8,Kale
+1.2,Flood,24,30,Sandy,Monsoon,210,61,21,73,5.9,Garlic
+4.9,Flood,67,67,Sandy,Winter,128,99,44,54,6.2,Turmeric
+3.1,Flood,50,17,Loam,Monsoon,148,90,48,58,7.0,Pinto Bean
+1.8,Flood,13,23,Clay,Monsoon,121,62,20,73,7.1,Kidney Bean
+3.9,Drip,18,21,Loam,Summer,114,54,26,61,5.6,Tea
+1.8,Sprinkler,37,31,Sandy,Winter,114,96,44,67,7.4,Cucumber
+3.4,Drip,51,23,Loam,Winter,242,53,31,57,5.6,Grapes
+3.3,Sprinkler,56,15,Sandy,Rainy,225,78,47,63,6.2,Taro
+3.8,Sprinkler,12,24,Clay,Rainy,239,91,49,78,7.5,Sunflower
+2.2,Drip,20,17,Loam,Winter,247,58,45,71,6.7,Jute
+4.1,Sprinkler,46,70,Sandy,Rainy,222,51,30,55,5.7,Potato
+3.9,Flood,38,35,Clay,Monsoon,103,77,39,72,7.4,Sweet Potato
+1.9,Flood,12,25,Sandy,Summer,114,66,44,67,7.5,Cassava
+4.3,Flood,61,69,Clay,Summer,193,72,30,55,5.6,Mustard
+3.8,Flood,26,41,Loam,Rainy,221,96,46,74,6.5,Lemon
+3.1,Drip,58,57,Loam,Summer,113,62,24,60,5.8,Tomato
+2.4,Drip,34,59,Clay,Winter,170,55,44,51,5.7,Peas
+1.6,Drip,52,37,Sandy,Summer,152,99,35,78,5.6,Coriander
+2.5,Drip,16,58,Sandy,Monsoon,112,83,25,66,6.1,Barley
+4.5,Flood,40,56,Loam,Summer,104,78,23,61,6.2,Dragonfruit
+4.8,Drip,46,54,Clay,Rainy,200,78,44,52,5.8,Kale
+1.6,Drip,10,27,Loam,Winter,135,59,40,54,6.8,Zucchini
+4.9,Flood,65,16,Sandy,Rainy,239,56,29,63,6.9,Sweet Potato
+2.7,Drip,66,25,Loam,Winter,157,52,49,65,6.4,Coffee
+2.1,Sprinkler,13,67,Sandy,Summer,186,83,36,69,6.4,Beetroot
+3.3,Flood,42,32,Loam,Summer,214,53,41,76,6.0,Kidney Bean
+3.8,Flood,32,30,Clay,Monsoon,165,56,27,71,7.2,Lima Bean
+1.0,Sprinkler,40,52,Loam,Winter,169,87,33,54,6.7,Mango
+1.2,Drip,27,35,Loam,Summer,110,71,49,73,7.2,Lettuce
+2.5,Drip,15,58,Sandy,Rainy,182,59,36,58,7.3,Soybean
+2.4,Drip,31,26,Loam,Rainy,223,72,48,67,5.8,Sugarcane
+2.2,Flood,46,62,Sandy,Winter,234,84,36,67,7.1,Yam
+3.7,Drip,37,65,Clay,Rainy,103,86,30,61,6.9,Cauliflower
+3.4,Drip,41,61,Clay,Winter,153,61,38,57,6.7,Pinto Bean
+4.3,Sprinkler,25,36,Sandy,Monsoon,201,52,48,78,5.7,Spinach
+4.1,Flood,65,49,Sandy,Summer,204,66,20,69,6.5,Yam
+2.9,Flood,15,16,Sandy,Monsoon,164,79,47,53,5.8,Pumpkin Seeds
+1.0,Flood,30,66,Sandy,Monsoon,208,72,48,57,6.6,Peas
+2.0,Drip,62,62,Sandy,Summer,190,63,35,55,7.0,Grapes
+3.3,Sprinkler,29,39,Sandy,Winter,160,75,49,67,5.9,Chili
+2.7,Flood,67,52,Clay,Summer,126,64,28,53,7.5,Tea
+1.1,Flood,15,26,Loam,Monsoon,184,86,41,67,7.0,Apple
+2.0,Sprinkler,36,32,Clay,Monsoon,115,76,43,69,6.1,Sunflower
+3.0,Flood,40,62,Sandy,Winter,171,61,44,64,6.0,Turmeric
+4.2,Drip,61,14,Sandy,Summer,136,90,46,76,6.1,Barley
+1.4,Flood,33,33,Loam,Winter,117,69,35,62,7.1,Pinto Bean
+4.4,Flood,49,40,Loam,Monsoon,229,85,47,71,6.8,Radish
+3.7,Sprinkler,55,39,Sandy,Monsoon,128,66,38,50,6.2,Sunflower
+2.4,Drip,22,60,Loam,Rainy,229,69,50,67,7.0,Carrot
+1.4,Flood,49,34,Sandy,Monsoon,114,67,37,60,6.5,Barley
+4.2,Drip,51,54,Sandy,Summer,216,66,32,68,6.1,Chili
+4.0,Flood,27,33,Clay,Monsoon,241,73,43,55,6.5,Chili
+1.2,Flood,39,47,Loam,Summer,240,66,43,76,7.1,Banana
+2.1,Drip,47,63,Sandy,Monsoon,135,94,28,73,6.1,Rice
+3.4,Flood,17,49,Sandy,Winter,233,71,43,73,7.2,Guava
+3.6,Sprinkler,18,21,Sandy,Summer,189,54,30,51,6.0,Basil
+3.3,Drip,70,28,Clay,Winter,152,77,35,65,6.6,Barley
+3.4,Flood,27,70,Clay,Rainy,217,60,38,52,6.0,Barley
+3.9,Sprinkler,36,13,Clay,Winter,105,87,37,72,7.2,Brinjal
+1.9,Sprinkler,52,62,Clay,Summer,207,54,27,80,6.1,Turmeric
+4.6,Flood,46,25,Loam,Rainy,135,98,31,65,6.4,Pumpkin
+4.9,Flood,35,48,Loam,Summer,113,53,29,68,5.7,Pineapple
+5.0,Sprinkler,70,10,Sandy,Monsoon,230,75,48,72,7.2,Cotton
+3.4,Flood,25,15,Clay,Summer,181,89,40,67,5.9,Groundnut
+4.4,Drip,35,64,Sandy,Winter,196,72,39,65,6.5,Coriander
+1.0,Flood,61,43,Clay,Winter,165,78,20,51,5.8,Chili
+3.5,Flood,59,14,Clay,Summer,224,83,40,78,6.0,Papaya
+3.7,Flood,58,28,Sandy,Rainy,156,88,33,61,7.1,Mushroom
+3.9,Drip,26,38,Clay,Monsoon,125,100,28,80,6.9,Mung Bean
+2.3,Flood,37,57,Loam,Summer,149,82,50,61,7.4,Jute
+4.4,Flood,51,13,Clay,Summer,236,70,43,63,6.3,Banana
+3.3,Flood,25,38,Sandy,Rainy,175,95,30,76,5.7,Pumpkin Seeds
+1.4,Drip,32,20,Clay,Rainy,222,92,31,73,6.6,Cotton
+3.1,Drip,49,49,Clay,Summer,177,70,33,66,7.5,Sesame
+1.2,Drip,65,42,Sandy,Monsoon,111,67,50,68,7.0,Safflower
+1.3,Sprinkler,33,34,Clay,Rainy,185,93,39,79,6.9,Mango
+3.8,Drip,70,33,Loam,Rainy,178,55,37,76,7.0,Coffee
+4.8,Flood,17,33,Sandy,Summer,144,71,23,52,6.0,Tomato
+4.4,Flood,66,47,Loam,Summer,174,73,22,58,6.7,Radish
+3.1,Drip,63,19,Loam,Rainy,224,66,45,65,7.3,Pumpkin Seeds
+4.9,Sprinkler,49,52,Sandy,Monsoon,191,84,40,58,6.2,Banana
+4.2,Flood,62,13,Loam,Rainy,164,90,32,78,6.3,Coriander
+4.6,Drip,18,64,Clay,Winter,208,97,37,67,5.7,Barley
+1.2,Flood,35,59,Clay,Winter,103,77,43,55,6.3,Basil
+1.8,Flood,56,20,Sandy,Winter,137,70,26,75,5.7,Tomato
+4.3,Flood,37,62,Clay,Monsoon,190,97,26,76,5.6,Jute
+2.8,Sprinkler,42,63,Clay,Rainy,137,65,22,72,7.2,Tea
+1.5,Drip,14,30,Loam,Winter,179,67,31,57,7.1,Onion
+2.6,Flood,58,43,Loam,Summer,183,68,44,55,6.1,Safflower
+2.2,Sprinkler,22,36,Loam,Winter,222,54,21,61,6.5,Zucchini
+3.5,Sprinkler,25,50,Sandy,Winter,204,98,38,73,7.5,Oats
+3.1,Drip,70,56,Sandy,Winter,224,50,21,80,7.1,Black Bean
+1.6,Drip,41,17,Clay,Rainy,226,81,34,78,6.8,Kale
+1.6,Flood,55,19,Sandy,Winter,116,83,45,53,6.9,Safflower
+1.7,Flood,15,46,Loam,Rainy,246,83,41,80,6.5,Cotton
+1.7,Sprinkler,13,36,Loam,Rainy,249,94,37,56,6.0,Flax Seeds
+3.5,Sprinkler,17,29,Loam,Summer,121,84,42,52,5.9,Mung Bean
+3.3,Drip,48,62,Sandy,Rainy,157,73,47,53,5.7,Sesame
+4.0,Flood,45,14,Sandy,Monsoon,132,70,35,65,5.8,Sunflower Seeds
+4.3,Flood,24,42,Sandy,Monsoon,131,53,39,52,7.4,Peas
+3.7,Flood,58,31,Sandy,Monsoon,185,68,44,53,5.9,Chia Seeds
+1.1,Flood,53,56,Clay,Summer,178,78,32,70,6.0,Coffee
+1.8,Drip,34,54,Sandy,Monsoon,244,72,25,53,5.7,Tomato
+3.6,Drip,33,16,Sandy,Rainy,204,84,23,50,6.5,Mustard
+3.0,Flood,69,35,Loam,Rainy,132,69,33,67,6.9,Navy Bean
+3.6,Drip,21,38,Sandy,Winter,135,81,50,53,6.3,Lima Bean
+1.1,Flood,38,52,Loam,Monsoon,177,63,22,69,6.2,Cucumber
+1.6,Drip,19,52,Clay,Winter,249,56,41,55,6.4,Flax Seeds
+4.7,Sprinkler,41,64,Clay,Summer,156,94,31,75,7.0,Kidney Bean
+3.5,Sprinkler,16,57,Sandy,Winter,228,99,50,51,7.1,Tobacco
+3.5,Drip,12,16,Loam,Winter,164,90,46,79,6.3,Guava
+2.5,Sprinkler,16,28,Loam,Summer,170,68,48,74,7.2,Black Bean
+1.8,Flood,45,35,Clay,Rainy,212,96,26,76,6.5,Mint
+4.0,Sprinkler,30,15,Clay,Summer,225,99,27,52,5.6,Mint
+4.0,Drip,30,64,Clay,Summer,193,79,20,67,7.4,Grapes
+1.3,Drip,31,30,Clay,Rainy,235,60,41,54,6.2,Sugarcane
+2.3,Drip,67,48,Loam,Winter,111,90,27,61,6.6,Lentil
+4.7,Sprinkler,29,19,Clay,Summer,112,64,49,77,6.3,Jute
+2.1,Drip,41,58,Sandy,Rainy,194,54,27,71,6.2,Yam
+2.1,Drip,45,68,Clay,Rainy,153,58,31,69,6.6,Chickpea
+1.1,Sprinkler,27,36,Sandy,Winter,172,67,26,63,6.2,Peanut
+3.5,Flood,58,70,Loam,Winter,197,59,32,60,5.7,Watermelon
+4.8,Sprinkler,43,36,Loam,Monsoon,177,56,38,55,6.2,Oats
+4.4,Flood,24,27,Clay,Rainy,114,67,34,80,7.4,Radish
+1.4,Sprinkler,18,15,Clay,Monsoon,217,93,35,59,5.5,Beetroot
+4.8,Drip,39,50,Loam,Rainy,149,56,27,74,7.2,Sweet Potato
+2.0,Sprinkler,68,63,Sandy,Monsoon,228,67,22,67,6.4,Navy Bean
+3.3,Sprinkler,61,48,Loam,Rainy,244,83,32,67,7.0,Taro
+1.4,Drip,14,63,Loam,Monsoon,202,66,49,74,7.1,Peas
+4.9,Drip,68,42,Loam,Monsoon,198,96,24,69,5.8,Sunflower Seeds
+4.5,Flood,38,10,Sandy,Rainy,127,78,39,74,6.2,Dragonfruit
+1.6,Sprinkler,33,44,Clay,Monsoon,122,69,44,54,6.5,Coffee
+3.7,Drip,10,18,Sandy,Monsoon,166,73,44,70,6.6,Pomegranate
+2.7,Flood,47,37,Clay,Winter,249,66,48,59,6.0,Black Bean
+4.6,Sprinkler,54,64,Loam,Summer,150,93,32,68,6.4,Garlic
+2.6,Sprinkler,67,25,Clay,Monsoon,230,89,45,72,7.3,Mushroom
+1.8,Sprinkler,10,70,Sandy,Winter,197,73,46,63,5.8,Chili Pepper
+2.9,Drip,58,65,Sandy,Winter,138,71,26,63,7.4,Wheat
+4.4,Flood,67,66,Clay,Summer,147,52,21,63,6.2,Soybean
+4.6,Drip,66,55,Clay,Rainy,167,68,24,59,5.7,Taro
+3.1,Flood,39,23,Loam,Summer,234,85,44,64,6.5,Carrot
+2.4,Flood,55,20,Clay,Monsoon,178,83,30,62,5.6,Garlic
+3.0,Flood,41,55,Loam,Winter,152,76,32,68,5.7,Guava
+2.7,Sprinkler,56,11,Sandy,Winter,221,73,25,50,6.0,Carrot
+4.5,Drip,65,17,Loam,Rainy,244,73,32,56,6.3,Carrot
+4.4,Sprinkler,59,24,Loam,Monsoon,175,87,22,80,6.2,Banana
+2.9,Flood,24,52,Clay,Winter,127,66,22,65,7.4,Maize
+3.3,Flood,24,60,Loam,Winter,199,57,37,68,5.9,Peas
+3.7,Drip,11,49,Loam,Winter,205,96,33,61,6.3,Banana
+3.9,Sprinkler,67,39,Loam,Rainy,185,79,39,50,6.5,Coriander
+2.6,Drip,34,19,Clay,Rainy,167,96,21,58,7.0,Cabbage
+2.6,Drip,48,40,Loam,Winter,188,50,41,70,7.4,Chili
+1.4,Flood,45,64,Sandy,Monsoon,180,80,20,58,7.1,Zucchini
+4.9,Sprinkler,64,48,Clay,Winter,138,72,36,70,6.0,Avocado
+3.0,Sprinkler,45,15,Loam,Winter,160,89,44,57,5.6,Hemp
+2.7,Flood,12,33,Loam,Winter,188,98,27,68,6.3,Sunflower
+2.5,Drip,20,30,Loam,Monsoon,105,62,26,63,7.3,Zucchini
+3.0,Sprinkler,64,21,Loam,Winter,228,95,36,77,6.2,Pumpkin Seeds
+2.7,Sprinkler,32,46,Loam,Monsoon,209,55,28,59,6.1,Sugarcane
+3.2,Flood,41,55,Loam,Monsoon,193,71,34,79,6.7,Oats
+4.5,Flood,23,22,Sandy,Summer,242,62,22,53,5.6,Coffee
+2.1,Sprinkler,32,11,Loam,Monsoon,208,70,35,65,5.9,Beetroot
+1.3,Drip,20,30,Sandy,Winter,133,98,39,62,7.2,Lima Bean
+3.6,Drip,58,16,Sandy,Winter,111,52,32,74,5.7,Sweet Potato
+4.0,Sprinkler,52,53,Loam,Rainy,115,92,50,57,6.7,Sweet Potato
+1.5,Drip,30,15,Loam,Winter,189,66,20,51,7.4,Mushroom
+2.7,Sprinkler,68,34,Loam,Winter,166,77,34,77,6.5,Cassava
+1.2,Flood,31,62,Clay,Summer,165,64,30,79,7.4,Potato
+1.2,Sprinkler,64,60,Loam,Monsoon,196,50,50,59,6.4,Cassava
+2.2,Drip,28,52,Clay,Rainy,164,84,35,56,5.8,Guava
+4.7,Flood,39,17,Sandy,Rainy,159,98,42,69,6.1,Pomegranate
+2.5,Sprinkler,39,28,Sandy,Summer,196,81,31,80,6.8,Banana
+1.7,Flood,51,27,Loam,Summer,113,98,46,75,6.3,Lima Bean
+3.8,Sprinkler,26,16,Loam,Winter,199,57,50,78,6.0,Lettuce
+2.6,Sprinkler,46,56,Sandy,Winter,113,72,23,68,5.8,Onion
+2.5,Drip,67,69,Clay,Rainy,189,89,24,72,6.1,Mung Bean
+1.0,Sprinkler,32,35,Clay,Winter,139,55,40,78,6.9,Lentil
+4.5,Sprinkler,21,66,Sandy,Winter,100,58,40,79,6.6,Kidney Bean
+4.6,Drip,62,47,Sandy,Summer,249,55,21,68,7.0,Pomegranate
+2.9,Sprinkler,27,19,Sandy,Rainy,138,99,33,75,6.3,Tea
+2.4,Flood,32,51,Sandy,Rainy,145,96,45,60,5.9,Peanut
+4.3,Flood,47,24,Sandy,Winter,112,50,44,54,6.8,Parsley
+4.7,Flood,47,47,Clay,Winter,189,72,45,51,6.5,Avocado
+1.8,Drip,22,64,Sandy,Rainy,108,54,21,80,6.1,Cabbage
+1.3,Sprinkler,58,14,Sandy,Winter,180,73,49,64,6.3,Sugarcane
+4.8,Sprinkler,26,46,Loam,Rainy,169,61,50,55,6.0,Pinto Bean
+1.9,Drip,63,38,Sandy,Winter,242,61,47,72,7.3,Soybean
+2.8,Sprinkler,65,63,Loam,Winter,185,76,47,61,6.6,Mung Bean
+1.7,Flood,19,36,Clay,Monsoon,183,90,25,56,7.1,Sugarcane
+2.9,Sprinkler,43,40,Loam,Summer,120,96,25,58,6.2,Pineapple
+1.5,Sprinkler,58,19,Loam,Rainy,182,64,33,51,6.6,Black Bean
+4.4,Sprinkler,10,46,Clay,Rainy,171,90,23,75,5.5,Dragonfruit
+3.1,Drip,58,51,Loam,Summer,121,60,48,66,7.1,Cotton
+3.4,Sprinkler,65,38,Clay,Summer,217,57,36,58,5.8,Sweet Potato
+3.4,Flood,33,27,Sandy,Rainy,240,92,48,51,6.7,Grapes
+4.7,Drip,16,49,Loam,Rainy,197,54,50,52,6.3,Coffee
+3.1,Sprinkler,49,51,Sandy,Rainy,179,90,25,58,7.4,Pomegranate
+4.2,Sprinkler,51,64,Loam,Rainy,147,73,45,54,7.0,Avocado
+1.7,Flood,25,21,Sandy,Winter,116,75,36,73,6.5,Barley
+2.8,Sprinkler,51,20,Sandy,Summer,131,89,22,74,7.2,Grapes
+1.8,Flood,10,40,Clay,Rainy,249,52,21,77,7.3,Mung Bean
+1.3,Drip,28,47,Sandy,Rainy,186,56,36,78,7.0,Coffee
+1.8,Drip,35,47,Loam,Winter,128,69,50,58,6.0,Parsley
+2.6,Drip,57,39,Loam,Summer,148,100,40,66,6.6,Cabbage
+3.7,Flood,47,70,Clay,Winter,145,56,34,52,7.5,Spinach
+4.6,Flood,65,18,Sandy,Monsoon,155,66,34,54,6.6,Watermelon
+4.5,Sprinkler,60,31,Loam,Summer,216,57,45,55,6.3,Pumpkin Seeds
+4.3,Sprinkler,28,36,Clay,Monsoon,197,76,28,74,6.7,Broad Bean
+3.2,Drip,11,17,Clay,Winter,206,54,39,65,6.9,Chili Pepper
+1.8,Drip,10,52,Loam,Monsoon,131,86,47,68,6.8,Lima Bean
+4.6,Drip,63,19,Loam,Summer,209,91,42,64,6.4,Sesame
+5.0,Sprinkler,18,38,Loam,Summer,238,56,48,55,5.6,Coffee
+2.0,Drip,27,53,Loam,Rainy,104,69,24,62,5.7,Radish
+2.2,Drip,47,25,Sandy,Winter,113,92,43,77,6.5,Guava
+2.2,Sprinkler,39,42,Loam,Winter,166,95,23,62,5.8,Navy Bean
+4.9,Drip,68,24,Clay,Summer,141,87,23,57,5.7,Sweet Potato
+3.3,Sprinkler,16,12,Clay,Summer,109,50,22,70,7.3,Kidney Bean
+2.3,Flood,20,50,Sandy,Summer,237,97,33,57,6.3,Cauliflower
+1.2,Sprinkler,19,52,Sandy,Winter,152,70,46,58,6.7,Oats
+2.9,Drip,59,43,Clay,Summer,232,52,41,77,7.1,Brinjal
+3.9,Sprinkler,40,33,Clay,Summer,220,69,26,60,5.7,Mango
+1.7,Sprinkler,29,21,Sandy,Monsoon,250,90,29,66,7.1,Grapes
+1.1,Sprinkler,55,32,Sandy,Rainy,154,65,23,75,7.4,Groundnut
+4.2,Sprinkler,55,13,Clay,Winter,154,90,47,75,7.4,Chili
+3.3,Drip,23,26,Clay,Rainy,128,54,20,71,5.9,Papaya
+1.4,Sprinkler,21,53,Clay,Rainy,125,73,43,51,5.7,Sunflower Seeds
+2.7,Sprinkler,51,60,Clay,Winter,137,93,40,76,6.2,Sugarcane
+2.7,Drip,26,43,Sandy,Summer,196,64,33,75,5.8,Sugarcane
+4.3,Flood,60,37,Loam,Summer,187,69,33,56,7.1,Cucumber
+4.2,Sprinkler,29,70,Sandy,Rainy,118,57,37,78,7.2,Black Bean
+1.4,Flood,33,37,Clay,Winter,102,86,26,66,6.4,Lima Bean
+2.1,Flood,60,33,Clay,Winter,225,51,50,78,5.6,Tobacco
+5.0,Drip,53,30,Sandy,Rainy,141,84,34,70,7.0,Radish
+1.3,Drip,23,50,Sandy,Rainy,125,74,31,72,6.8,Zucchini
+3.5,Drip,15,66,Clay,Winter,111,79,40,80,7.5,Soybean
+2.3,Flood,21,59,Clay,Rainy,123,87,45,52,7.1,Brinjal
+2.0,Sprinkler,12,11,Clay,Rainy,209,60,40,74,6.2,Turmeric
+3.5,Sprinkler,27,45,Clay,Monsoon,219,83,34,53,6.2,Apple
+1.4,Drip,39,34,Sandy,Monsoon,214,75,37,65,7.2,Zucchini
+4.1,Sprinkler,54,58,Clay,Winter,207,90,28,65,5.8,Broad Bean
+4.8,Sprinkler,70,48,Clay,Monsoon,154,96,36,64,6.3,Cucumber
+1.9,Flood,69,27,Clay,Rainy,203,55,21,73,6.9,Lima Bean
+2.4,Sprinkler,45,47,Loam,Monsoon,197,73,35,57,6.5,Cranberry Bean
+1.1,Sprinkler,31,62,Clay,Rainy,217,61,31,80,6.3,Pumpkin Seeds
+2.8,Sprinkler,50,29,Loam,Summer,141,98,47,59,7.5,Parsley
+1.4,Drip,18,15,Loam,Summer,157,86,49,74,7.0,Parsley
+3.8,Drip,12,63,Sandy,Summer,212,63,36,69,6.8,Tomato
+3.1,Sprinkler,40,42,Clay,Winter,211,83,50,79,6.3,Fava Bean
+1.4,Drip,32,21,Clay,Monsoon,125,54,22,59,5.7,Ginger
+3.7,Drip,11,61,Clay,Monsoon,243,61,37,68,7.1,Mango
+2.3,Drip,55,51,Loam,Winter,185,85,49,68,5.8,Basil
+4.0,Sprinkler,46,24,Clay,Rainy,183,69,20,62,6.7,Tea
+3.3,Flood,53,68,Sandy,Summer,154,81,39,56,6.2,Garlic
+4.1,Drip,16,32,Clay,Winter,145,78,42,56,5.7,Cranberry Bean
+3.9,Drip,12,23,Sandy,Winter,177,70,43,76,7.4,Broad Bean
+4.6,Sprinkler,69,28,Loam,Monsoon,235,96,32,58,5.9,Mushroom
+3.2,Drip,28,29,Loam,Winter,151,70,48,75,6.9,Dragonfruit
+4.8,Sprinkler,16,47,Clay,Monsoon,168,62,27,70,7.0,Broad Bean
+3.2,Sprinkler,20,49,Sandy,Monsoon,219,73,44,54,5.7,Tobacco
+2.4,Sprinkler,63,13,Loam,Winter,138,70,37,54,6.7,Ginger
+2.9,Flood,15,59,Sandy,Summer,135,70,46,51,6.1,Pomegranate
+3.9,Flood,44,41,Clay,Monsoon,135,80,36,72,6.6,Pinto Bean
+1.1,Sprinkler,19,63,Sandy,Summer,208,71,20,53,6.5,Sugarcane
+3.1,Drip,22,66,Clay,Rainy,212,90,20,59,5.7,Sugarcane
+4.6,Drip,65,49,Loam,Summer,128,87,33,59,6.0,Groundnut
+4.4,Sprinkler,21,14,Sandy,Rainy,197,75,25,50,6.2,Kale
+2.7,Sprinkler,56,33,Sandy,Monsoon,190,91,26,75,6.7,Coffee
+3.1,Sprinkler,20,46,Sandy,Rainy,152,86,21,78,6.8,Turmeric
+2.2,Drip,57,39,Clay,Summer,125,82,28,63,7.0,Garlic
+1.2,Flood,24,24,Loam,Monsoon,161,51,33,58,5.5,Sweet Potato
+2.7,Sprinkler,26,67,Loam,Winter,153,76,44,70,6.9,Navy Bean
+1.8,Sprinkler,66,37,Sandy,Rainy,203,62,28,77,7.0,Lentil
+1.8,Drip,33,52,Sandy,Winter,249,82,49,74,5.6,Taro
+4.2,Sprinkler,27,50,Loam,Winter,123,77,22,53,6.9,Navy Bean
+2.2,Flood,27,14,Loam,Rainy,182,94,20,54,6.5,Chia Seeds
+3.4,Sprinkler,48,36,Sandy,Summer,236,90,33,52,5.9,Mung Bean
+2.4,Drip,21,29,Sandy,Winter,144,69,43,70,7.5,Tea
+3.9,Drip,24,48,Sandy,Monsoon,153,54,23,78,7.5,Rice
+2.9,Drip,19,15,Sandy,Rainy,244,79,27,68,6.3,Brinjal
+2.0,Drip,50,35,Sandy,Rainy,138,81,32,69,6.9,Mustard
+2.5,Drip,22,33,Loam,Monsoon,106,69,38,73,6.8,Banana
+4.0,Flood,16,36,Sandy,Rainy,247,68,27,68,6.1,Peas
+1.3,Drip,12,47,Sandy,Monsoon,224,75,25,68,6.9,Grapes
+3.9,Drip,29,70,Loam,Monsoon,243,72,23,53,6.3,Beetroot
+1.7,Drip,59,23,Sandy,Summer,212,84,25,66,6.0,Tomato
+3.9,Flood,17,42,Sandy,Summer,182,86,29,51,7.2,Pinto Bean
+2.0,Sprinkler,14,56,Sandy,Monsoon,240,93,21,61,7.2,Basil
+2.1,Sprinkler,34,42,Sandy,Summer,118,65,24,69,6.2,Chia Seeds
+1.7,Sprinkler,67,26,Clay,Rainy,181,88,25,72,6.2,Black Bean
+3.2,Drip,13,53,Clay,Summer,150,59,34,53,5.6,Mustard
+1.5,Flood,67,27,Sandy,Winter,156,86,35,62,6.0,Carrot
+2.6,Sprinkler,28,20,Loam,Summer,100,97,39,74,6.8,Cauliflower
+2.4,Flood,47,51,Clay,Winter,231,94,46,55,6.2,Kidney Bean
+3.6,Sprinkler,36,27,Loam,Summer,228,79,39,54,7.3,Parsley
+3.4,Sprinkler,22,21,Sandy,Summer,206,85,45,60,6.3,Mint
+1.7,Sprinkler,47,66,Loam,Summer,222,52,49,57,6.1,Mung Bean
+1.4,Flood,17,60,Loam,Summer,218,77,49,71,6.1,Oats
+1.8,Sprinkler,51,34,Clay,Rainy,112,63,31,62,7.4,Carrot
+1.4,Flood,50,68,Sandy,Monsoon,140,84,28,61,6.6,Groundnut
+3.1,Sprinkler,36,42,Loam,Rainy,208,68,29,77,6.6,Tobacco
+2.6,Flood,51,35,Clay,Winter,250,67,31,57,6.3,Yam
+1.5,Flood,46,58,Loam,Monsoon,195,78,44,77,6.7,Lentil
+1.2,Drip,11,50,Clay,Rainy,106,79,25,67,5.8,Lentil
+3.9,Drip,13,23,Clay,Rainy,117,67,34,53,7.2,Garlic
+3.8,Drip,35,60,Clay,Summer,121,95,30,67,6.1,Chickpea
+4.6,Flood,19,69,Sandy,Winter,237,79,43,74,5.8,Beetroot
+4.0,Flood,22,47,Sandy,Rainy,218,80,20,69,7.0,Maize
+2.9,Sprinkler,29,20,Sandy,Summer,223,65,32,64,5.6,Cassava
+2.6,Drip,70,45,Sandy,Winter,127,88,24,59,5.5,Lentil
+3.5,Drip,22,40,Loam,Monsoon,233,71,38,61,5.5,Fava Bean
+4.5,Drip,42,17,Loam,Winter,133,59,32,79,6.0,Chia Seeds
+2.5,Drip,22,34,Clay,Winter,238,73,37,55,7.0,Sugarcane
+4.9,Flood,51,64,Clay,Winter,215,95,40,69,6.1,Hemp
+3.7,Flood,21,61,Loam,Rainy,177,99,26,76,6.1,Basil
+1.4,Flood,20,24,Sandy,Rainy,136,63,48,75,7.3,Fava Bean
+4.9,Sprinkler,61,36,Sandy,Monsoon,114,82,30,70,5.5,Safflower
+2.4,Sprinkler,42,69,Loam,Rainy,100,91,23,71,5.9,Beetroot
+3.4,Sprinkler,31,25,Sandy,Rainy,205,53,48,64,6.6,Sweet Potato
+4.5,Flood,50,20,Loam,Winter,122,100,23,68,5.6,Guava
+3.3,Flood,39,64,Sandy,Rainy,210,81,32,75,7.4,Potato
+3.2,Sprinkler,50,68,Loam,Summer,159,80,22,55,5.8,Tea
+2.9,Flood,45,61,Loam,Rainy,119,97,20,70,6.2,Coriander
+4.1,Sprinkler,28,24,Loam,Rainy,155,71,38,77,5.6,Guava
+2.0,Sprinkler,70,56,Clay,Summer,132,95,32,51,5.7,Cassava
+4.1,Sprinkler,42,60,Clay,Monsoon,224,90,37,77,7.0,Kale
+4.8,Sprinkler,68,46,Clay,Winter,155,86,31,70,7.1,Radish
+3.8,Sprinkler,23,27,Sandy,Winter,150,64,44,71,7.3,Chickpea
+4.9,Sprinkler,32,13,Clay,Summer,152,57,20,69,7.4,Yam
+3.3,Flood,59,36,Sandy,Summer,193,61,36,74,6.3,Ginger
+4.8,Drip,31,43,Loam,Summer,215,99,31,71,7.4,Broad Bean
+3.2,Drip,26,69,Loam,Summer,200,71,31,76,6.6,Yam
+4.7,Sprinkler,40,61,Clay,Monsoon,183,67,34,79,5.5,Hemp
+1.1,Flood,58,55,Loam,Monsoon,196,63,34,52,7.2,Pomegranate
+4.3,Drip,64,53,Loam,Rainy,210,69,50,70,7.2,Avocado
+3.1,Drip,64,50,Clay,Monsoon,130,70,33,78,7.3,Beetroot
+1.7,Flood,44,25,Clay,Summer,102,94,26,73,5.8,Taro
+2.7,Flood,65,14,Clay,Summer,110,99,25,75,7.3,Coffee
+1.3,Flood,22,51,Loam,Monsoon,165,73,20,54,7.4,Broad Bean
+3.0,Sprinkler,27,37,Loam,Rainy,148,89,32,69,6.8,Peanut
+1.1,Sprinkler,35,68,Loam,Monsoon,124,58,50,62,7.2,Carrot
+3.6,Drip,66,48,Sandy,Rainy,150,76,49,61,6.2,Broad Bean
+2.5,Flood,64,50,Clay,Winter,119,77,41,72,7.0,Cranberry Bean
+1.3,Sprinkler,64,11,Loam,Monsoon,109,72,35,50,6.6,Yam
+4.6,Flood,39,41,Loam,Summer,217,87,32,60,7.3,Cabbage
+4.9,Flood,37,21,Sandy,Monsoon,154,97,33,77,6.9,Banana
+2.2,Drip,59,55,Clay,Rainy,132,62,31,72,7.0,Avocado
+3.6,Sprinkler,20,18,Sandy,Winter,127,72,28,68,6.1,Fava Bean
+4.4,Flood,52,20,Clay,Summer,190,54,50,60,7.4,Cabbage
+1.7,Drip,30,43,Sandy,Winter,205,80,29,60,6.7,Barley
+3.3,Drip,45,27,Sandy,Summer,221,56,42,77,5.6,Chia Seeds
+4.8,Drip,13,21,Loam,Monsoon,184,90,44,73,7.0,Pomegranate
+4.1,Drip,54,32,Clay,Monsoon,205,98,23,78,6.8,Kale
+2.1,Drip,33,41,Clay,Monsoon,141,67,35,75,5.5,Taro
+3.8,Sprinkler,26,62,Sandy,Summer,190,54,48,79,7.0,Avocado
+3.2,Flood,47,22,Sandy,Rainy,208,74,39,51,6.7,Peanut
+3.8,Drip,22,26,Sandy,Winter,111,87,50,73,7.2,Grapes
+1.4,Flood,16,30,Sandy,Monsoon,104,91,25,52,6.0,Navy Bean
+3.1,Sprinkler,15,46,Sandy,Winter,237,77,47,60,5.9,Guava
+3.5,Sprinkler,61,62,Clay,Summer,247,72,30,57,5.9,Cabbage
+3.0,Drip,30,52,Clay,Rainy,225,61,27,76,5.9,Chickpea
+2.0,Flood,14,34,Clay,Rainy,128,87,45,61,5.8,Cucumber
+2.2,Flood,21,55,Clay,Monsoon,181,63,37,51,6.9,Pinto Bean
+3.7,Sprinkler,41,68,Loam,Monsoon,172,60,43,73,6.3,Cauliflower
+2.3,Sprinkler,45,43,Clay,Summer,210,71,24,57,7.3,Zucchini
+2.1,Flood,15,41,Sandy,Summer,172,71,21,72,5.7,Maize
+2.9,Flood,27,27,Loam,Monsoon,116,97,30,69,5.7,Banana
+2.2,Drip,22,57,Loam,Monsoon,233,67,48,62,7.3,Mushroom
+2.4,Flood,54,19,Sandy,Rainy,181,99,21,56,5.9,Mint
+4.4,Flood,66,15,Clay,Rainy,202,76,21,66,6.6,Navy Bean
+3.8,Sprinkler,63,14,Clay,Rainy,173,90,45,80,5.8,Broad Bean
+2.6,Drip,31,53,Sandy,Summer,155,79,28,75,6.4,Basil
+1.7,Sprinkler,28,63,Sandy,Summer,214,79,36,61,6.0,Zucchini
+2.3,Drip,23,19,Sandy,Winter,224,81,34,77,6.8,Rice
+2.7,Sprinkler,21,49,Loam,Monsoon,208,93,50,74,7.3,Coconut
+4.5,Drip,29,67,Loam,Summer,219,90,30,71,5.8,Coriander
+4.0,Sprinkler,34,20,Sandy,Rainy,236,69,40,56,5.9,Pumpkin
+1.0,Sprinkler,18,55,Sandy,Rainy,105,71,35,63,6.5,Jute
+1.9,Flood,25,49,Loam,Winter,164,97,32,71,5.7,Safflower
+4.3,Drip,57,64,Sandy,Winter,249,50,36,80,7.0,Groundnut
+3.4,Drip,11,23,Sandy,Rainy,114,81,23,65,7.0,Broad Bean
+3.1,Sprinkler,55,22,Loam,Summer,182,74,43,55,5.7,Cotton
+1.4,Sprinkler,64,44,Clay,Summer,155,92,47,65,6.0,Guava
+4.3,Sprinkler,24,25,Loam,Winter,199,90,35,56,6.4,Flax Seeds
+1.5,Sprinkler,11,16,Loam,Summer,115,77,34,73,5.9,Cauliflower
+1.2,Drip,32,61,Loam,Winter,245,88,50,63,5.6,Lentil
+5.0,Sprinkler,45,33,Loam,Monsoon,212,62,37,78,6.0,Kidney Bean
+2.1,Sprinkler,63,62,Clay,Rainy,146,64,21,57,7.0,Cassava
+1.5,Drip,47,65,Sandy,Winter,250,82,22,69,6.0,Mango
+2.0,Flood,41,16,Sandy,Rainy,106,88,48,71,6.7,Cotton
+1.2,Flood,57,42,Loam,Summer,150,69,32,58,7.5,Sesame
+2.7,Sprinkler,27,15,Loam,Monsoon,174,57,47,73,6.3,Pumpkin Seeds
+3.3,Drip,62,63,Loam,Rainy,203,98,38,70,6.6,Spinach
+3.8,Flood,19,51,Loam,Monsoon,126,95,46,53,7.1,Peanut
+2.9,Flood,42,60,Sandy,Summer,101,54,33,69,6.8,Wheat
+3.1,Drip,63,70,Clay,Winter,211,87,35,70,6.6,Pumpkin Seeds
+3.1,Flood,48,58,Loam,Rainy,240,54,46,69,5.6,Cabbage
+2.6,Flood,10,67,Sandy,Summer,214,67,34,61,7.2,Dragonfruit
+1.1,Flood,19,21,Clay,Winter,127,70,49,77,7.1,Cabbage
+3.2,Drip,52,19,Sandy,Monsoon,158,61,49,53,6.7,Chili
+3.7,Sprinkler,55,14,Sandy,Rainy,212,100,25,58,7.5,Grapes
+3.4,Drip,70,39,Loam,Monsoon,212,72,26,50,7.0,Pineapple
+4.9,Drip,16,63,Sandy,Summer,188,75,27,62,6.7,Guava
+1.0,Flood,11,57,Sandy,Monsoon,166,53,43,68,6.4,Cotton
